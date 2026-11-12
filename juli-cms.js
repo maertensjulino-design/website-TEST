@@ -3,7 +3,18 @@
 'use strict';
 const q=(css)=>document.querySelector(css);
 function put(css,value){const e=q(css);if(!e||typeof value!=='string')return;const norm=x=>String(x||'').replace(/\s+/g,' ').trim();if(norm(e.innerText||e.textContent)===norm(value))return;e.textContent=value;}
-function safeImage(str){return typeof str==='string' && (/^\/?uploads\/[\w\-.\/%]+$/i.test(str)||/^data:image\/(?:jpeg|png|webp|gif);base64,/i.test(str)||/^blob:/i.test(str)) ? str : null;}
+function safeImage(str){
+ if(typeof str!=='string')return null;
+ const raw=str.trim();
+ if(/^data:image\/(?:jpeg|png|webp|gif);base64,/i.test(raw)||/^blob:/i.test(raw))return raw;
+ if(!/^\/?uploads\//i.test(raw)||/[?#\\\x00-\x1f]/.test(raw))return null;
+ try {
+  const parts=raw.replace(/^\//,'').split('/').map(decodeURIComponent);
+  if(parts.some(s=>!s||s==='.'||s==='..'||/[/\\\x00-\x1f]/.test(s)))return null;
+  if(parts[0].toLowerCase()!=='uploads'||!/\.(?:jpe?g|png|webp|gif|avif)$/i.test(parts[parts.length-1]))return null;
+  return '/'+parts.map(encodeURIComponent).join('/');
+ }catch{return null;}
+}
 function safeLink(str){return typeof str==='string' && (/^https:\/\//i.test(str)||/^\/[\w\-.\/%?#=&]+$/.test(str))?str:null;}
 function dateTodayBerlin(){return new Intl.DateTimeFormat('sv-SE',{timeZone:'Europe/Berlin',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());}
 function dateOnly(d){return typeof d==='string'?d.slice(0,10):'';}
