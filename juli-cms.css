@@ -1,0 +1,19 @@
+
+/* JULI CONSULTING · Redaktionelle Ergänzungen; unverändertes Basisdesign. */
+.jc-hinweis[hidden],.jc-editor-section[hidden]{display:none!important}
+.jc-hinweis{background:#2a4a3d;color:#fff;position:relative;z-index:15;border-bottom:1px solid rgba(255,255,255,.25)}
+.jc-hinweis-inner{max-width:1280px;margin:auto;padding:18px 28px;display:flex;justify-content:space-between;align-items:flex-start;gap:18px}
+.jc-hinweis-kicker{font-size:.73rem;letter-spacing:.12em;font-weight:800;opacity:.76;margin-bottom:3px}
+.jc-hinweis strong{font-size:1.14rem}.jc-hinweis p{font-size:.94rem;margin:5px 0 0;line-height:1.5;color:#f1f3ec}
+#jc-hinweis-close{width:38px;height:38px;border:1px solid #b6c4b9;background:transparent;color:#fff;border-radius:50%;font-size:1.5rem;cursor:pointer;flex-shrink:0}
+.jc-editor-section{padding:80px 0;background:#ecefe8;color:#203d31}
+.jc-editor-section h2{margin:.2em 0 .3em}.jc-editor-section>.container>p{max-width:65ch}
+.jc-editor-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;margin-top:30px}
+.jc-tile{background:#fff;overflow:hidden;border:1px solid #d7dfd7;border-radius:15px;display:flex;flex-direction:column;min-width:0}
+.jc-tile img{display:block;width:100%;aspect-ratio:16/10;object-fit:cover}
+.jc-tile-body{padding:23px}.jc-tile-body h3{margin-bottom:12px}.jc-tile-body p{font-size:.94rem;color:#52665a;overflow-wrap:anywhere}
+.jc-tile-body a{display:inline-flex;font-weight:700;margin-top:9px;color:#2b6245}
+.jc-news{background:#f7f4eb}.jc-editor-news-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin-top:28px}
+.jc-editor-news-list article{background:#fff;padding:25px;border:1px solid #e2e6da;border-radius:14px}
+.jc-editor-news-list h3{margin:6px 0 12px}.jc-editor-news-list time{font-size:.8rem;color:#576d5e}
+@media(max-width:780px){.jc-editor-grid,.jc-editor-news-list{grid-template-columns:1fr}.jc-hinweis-inner{padding:14px 18px}.jc-editor-section{padding:55px 0}}

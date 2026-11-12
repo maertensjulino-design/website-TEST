@@ -1,0 +1,133 @@
+# JULI CONSULTING – Website-Editor
+# TEST-Repository: website-TEST (oeffentlich). Fuer Produktion Repository und Repo-Namen aendern.
+backend:
+  name: github
+  repo: maertensjulino-design/website-TEST
+  branch: main
+  auth_methods:
+  - token
+  - oauth
+site_url: https://juli-consulting.de
+locale: de
+media_folder: uploads
+public_folder: /uploads
+collections:
+- name: website
+  label: Website verwalten
+  files:
+  - name: homepage
+    label: Startseite, Bilder & Mitteilungen
+    file: content/site.json
+    format: json
+    fields:
+    - name: hinweis_aktiv
+      label: Hinweis / Betriebsferien anzeigen
+      widget: boolean
+      default: false
+    - name: hinweis_titel
+      label: Überschrift des Hinweises
+      widget: string
+    - name: hinweis_text
+      label: Mitteilung (z. B. Betriebsferien)
+      widget: text
+    - name: hinweis_von
+      label: Beginn (Datum; optional)
+      widget: datetime
+      type: date
+      required: false
+    - name: hinweis_bis
+      label: Ende (Datum; optional)
+      widget: datetime
+      type: date
+      required: false
+    - name: hero_kicker
+      label: 'Startseite: kleine Zeile über dem Titel'
+      widget: string
+    - name: hero_text
+      label: 'Startseite: Einleitung'
+      widget: text
+    - name: hero_bild
+      label: 'Startseite: Foto ersetzen'
+      widget: image
+      required: false
+    - name: ueber_bild
+      label: 'Über mich: Foto ersetzen'
+      widget: image
+      required: false
+    - name: leistungen_titel
+      label: 'Leistungen: Überschrift'
+      widget: string
+    - name: leistungen_text
+      label: 'Leistungen: Einleitung'
+      widget: text
+    - name: referenzen_titel
+      label: 'Designstudien: Überschrift'
+      widget: string
+    - name: referenzen_text
+      label: 'Designstudien: Einleitung'
+      widget: text
+    - name: ueber_titel
+      label: 'Über mich: Überschrift'
+      widget: string
+    - name: ueber_text
+      label: 'Über mich: Einleitung'
+      widget: text
+    - name: preise_titel
+      label: 'Preise: Überschrift'
+      widget: string
+    - name: preise_text
+      label: 'Preise: Einleitung'
+      widget: text
+    - name: kontakt_titel
+      label: 'Kontakt: Überschrift'
+      widget: string
+    - name: kontakt_text
+      label: 'Kontakt: Einleitung'
+      widget: text
+    - name: kundenprojekte
+      label: Echte Kundenprojekte – Bilder und Beschreibungen hinzufügen
+      widget: list
+      required: false
+      summary: '{{fields.titel}}'
+      fields:
+      - name: sichtbar
+        label: Projekt anzeigen
+        widget: boolean
+        default: true
+      - name: titel
+        label: Projektname
+        widget: string
+      - name: beschreibung
+        label: Kurzbeschreibung
+        widget: text
+        required: false
+      - name: bild
+        label: Foto / Vorschaubild hochladen
+        widget: image
+        required: false
+      - name: link
+        label: Projektlink https://... (optional)
+        widget: string
+        required: false
+    - name: aktuelles
+      label: Neuigkeiten / Hinweise unterhalb der Preise
+      widget: list
+      required: false
+      summary: '{{fields.titel}}'
+      fields:
+      - name: sichtbar
+        label: Eintrag anzeigen
+        widget: boolean
+        default: true
+      - name: datum
+        label: Datum
+        widget: datetime
+        type: date
+        required: false
+      - name: titel
+        label: Überschrift
+        widget: string
+      - name: text
+        label: Nachricht
+        widget: text
+        required: false

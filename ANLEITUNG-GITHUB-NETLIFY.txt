@@ -1,0 +1,45 @@
+JULI CONSULTING – GitHub + Netlify + Sveltia CMS
+
+DIESE VERSION BASIERT AUF DER VOLLSTÄNDIGEN AKTUELLEN ZIP
+JULI-CONSULTING-REFERENZEN-MUSTERDATEN-OHNE-CODING-FOTO-NETLIFY(1).zip
+
+WICHTIG
+- Sämtliche 74 Originaldateien wurden übernommen, inklusive aller Referenzen, Videos, Bilder, Datenschutz/Impressum, Karte, 250 FAQ, Formular und Redirects.
+- Die Website wurde um einen ergänzenden CMS-Bereich erweitert. Bestehendes Layout und Funktionen bleiben erhalten.
+- Die öffentliche Domain juli-consulting.de wird durch diese Datei NICHT geändert.
+- Der testweise konfigurierte GitHub-Repo-Name lautet maertensjulino-design/website-TEST (oeffentlich, aktuell leer).
+- Netzlify/Netlify: Keine direkte Verbindung wurde hier eingerichtet. Das erfolgt nach GitHub-Upload durch Freigabe im Netlify-Dashboard.
+
+SCHRITT 1: GITHUB / TEST-REPOSITORY
+1) https://github.com/maertensjulino-design/website-TEST öffnen.
+2) ZIP auf dem PC entpacken. NICHT die ZIP selbst ins Repo hochladen: alle Dateien und Ordner im entpackten Ordner gehören ins REPO-ROOT, sodass index.html direkt oben liegt.
+3) Über Add file -> Upload files alle Dateien (gegebenenfalls in kleineren Gruppen) hochladen und committen. GitHub Browser-Upload großer/verzweigter Sites ist unhandlich; GitHub Desktop ist dafür zuverlässiger.
+   Alternative: GitHub Desktop, Repo klonen, sämtliche extrahierten Dateien hineinkopieren, committen und pushen.
+4) ACHTUNG: Das vorhandene Test-Repo ist PUBLIC: alle Quelldateien und Medien sind öffentlich zugänglich. Für Produktion ein PRIVATE Repo neu erstellen und dann admin/config.yml auf dieses Repo anpassen. Niemals Passwörter oder Tokens in Dateien ablegen.
+
+SCHRITT 2: NETLIFY TESTSEITE
+1) Bestehende Haupt-Domain juli-consulting.de NICHT verändern, bis die Testseite funktioniert.
+2) Netlify > Add new project > Import an existing project > GitHub > website-TEST.
+3) Production branch: main; Build command: LEER; Publish directory: . (Projektwurzel).
+4) Veröffentlichen. Zuerst die automatisch zugewiesene *.netlify.app-Test-URL prüfen.
+5) Unter /admin/ mit Sveltia CMS: 'Sign in with Token' wählen; bei GitHub ein begrenztes Fine-grained-PAT mit 'Contents: Read/Write' ausschließlich für das Test-Repo erstellen. Token nur im Editor eingeben; niemals in Dateien, E-Mails oder Chat kopieren.
+6) Ein Feld 'Mitteilung' ändern, speichern und auf den nächsten Netlify-Deploy warten: dann sollte die Änderung online sichtbar werden.
+7) Für komfortables OAuth-Login später GitHub OAuth App + Netlify OAuth Provider konfigurieren (kein Token nötig für den Kunden).
+
+SCHRITT 3: PRODUKTIV
+Erst nach Testen: Private Repo erstellen, Files hinüberkopieren, admin/config.yml anpassen und die bisherige Netlify-Website unter juli-consulting.de mit Git verbinden. Oder über den Netlify-Dashboard-Weg unter Project configuration > Developer settings > Continuous deployment > Repository > Push to new repository bei einer manuell veröffentlichten Site (nur wenn Netlify diese Option im Konto anzeigt).
+Vorher aktuelle Netlify-Konfiguration, Formulare, Domain/DNS und bestehende Deploys sichern.
+
+INHALTE EDITIEREN
+https://DEINE-TEST-URL.netlify.app/admin/
+- Betriebsferien-Ankündigungen, Start/Ende, automatische Ausblendung
+- Überschriften/Texte einzelner Bereiche
+- Start- und Profilfoto austauschen
+- Echte Kundenprojekte: hinzufügen/löschen/Bilder/Links
+- Aktuelles / Neuigkeiten
+Hinweis: Bearbeitbare Inhalte liegen in content/site.json; neue Bilder werden unter uploads/ abgelegt. Keine Änderung an referenzen.html oder /projekte/ über diesen Editor.
+
+DATENSCHUTZ & SICHERHEIT
+Admin-Login berechtigt nur mit GitHub-Schreibrechten. Vertrauliche Daten gehören nicht in ein öffentliches Repository. Browser-Preview ist kein Produktiv-Editor. Fotos nur bei Nutzungsberechtigung hochladen.
+
+JULI CONSULTING | Website Studio

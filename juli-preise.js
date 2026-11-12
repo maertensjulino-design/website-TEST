@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-select-plan]').forEach(function(link){link.addEventListener('click',function(){var s=document.getElementById('contact-plan');if(s){s.value=link.getAttribute('data-select-plan');}});});

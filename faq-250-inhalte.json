@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1,
+    "category": "Preise & Angebote",
+    "question": "Was kostet eine einfache Website zum Festpreis?",
+    "answer": "Einfache Unternehmenswebsites starten bei 399,00 € brutto. Den verbindlichen Preis und den Leistungsumfang erhältst du vor Projektbeginn im Angebot.",
+    "tags": "kosten preise 399 festpreis"
+  },
+  {
+    "id": 2,
+    "category": "Preise & Angebote",
+    "question": "Gibt es ein Monatsabo?",
+    "answer": "Ja. Das freiwillige Website-Abo kostet 49,95 € brutto pro Monat. Darin sind die vereinbarte Website-Erstellung und zusätzlich die aktive laufende Betreuung enthalten.",
+    "tags": "monatsabo monat abo 49,95"
+  },
+  {
+    "id": 3,
+    "category": "Preise & Angebote",
+    "question": "Sind die 49,95 € brutto oder netto?",
+    "answer": "49,95 € sind der monatliche Bruttopreis des angebotenen Website-Abos.",
+    "tags": "49,95 brutto netto"
+  },
+  {
+    "id": 4,
+    "category": "Preise & Angebote",
+    "question": "Ist das Website-Abo verpflichtend?",
+    "answer": "Nein. Du kannst alternativ eine Website zum Festpreis beauftragen. Es gibt keine Pflicht, ein Abo abzuschließen.",
+    "tags": "pflicht verpflichtend zwang abo"
+  },
+  {
+    "id": 5,
+    "category": "Preise & Angebote",
+    "question": "Welche Leistungen sind in beiden Preismodellen gleich?",
+    "answer": "Bei beiden Modellen sind die vereinbarte individuelle Gestaltung, responsive Umsetzung, Kontaktformular, SEO-Grundlagen und Unterstützung beim Onlinegang enthalten. Das Abo ergänzt die laufende aktive Betreuung.",
+    "tags": "leistungen vergleich festpreis abo"
+  },
+  {
+    "id": 6,
+    "category": "Preise & Angebote",
+    "question": "Gibt es versteckte Kosten?",
+    "answer": "Juli Consulting weist vereinbarte Projektkosten und mögliche Fremdkosten wie Domain oder Hosting vorab transparent aus. Zusätzliche Arbeiten erfolgen nur nach Absprache.",
+    "tags": "versteckte kosten extrakosten"
+  },
+  {
+    "id": 7,
+    "category": "Preise & Angebote",
+    "question": "Kann meine Website mehr als 399 € kosten?",
+    "answer": "Ja. 399,00 € brutto ist der Einstiegspreis für einfache Projekte. Bei zusätzlichen Seiten, besonderen Funktionen oder größerem Umfang erhältst du ein individuelles Angebot.",
+    "tags": "umfang größer aufpreis"
+  },
+  {
+    "id": 8,
+    "category": "Preise & Angebote",
+    "question": "Muss ich für ein Angebot bezahlen?",
+    "answer": "Eine erste Projektanfrage ist kostenlos und unverbindlich. Vor kostenpflichtiger Arbeit erhältst du ein konkretes Angebot.",
+    "tags": "angebot kostenlos gratis"
+  },
+  {
+    "id": 9,
+    "category": "Preise & Angebote",
+    "question": "Kann ich Festpreis und Abo vergleichen?",
+    "answer": "Ja. Beide Wege werden mit denselben vereinbarten Website-Leistungen angeboten. Der Unterschied ist die aktive laufende Betreuung im Abo und die Zahlungsweise.",
+    "tags": "preisvergleich"
+  },
+  {
+    "id": 10,
+    "category": "Preise & Angebote",
+    "question": "Wird die Domain zusätzlich berechnet?",
+    "answer": "Domain-Gebühren können unabhängig vom Website-Preis beim jeweiligen Anbieter entstehen. Diese Fremdkosten werden vorab besprochen.",
+    "tags": "domainpreis domainkosten"
+  },
+  {
+    "id": 11,
+    "category": "Abo & Kündigung",
+    "question": "Wie lange läuft das 49,95-Euro-Abo mindestens?",
+    "answer": "Die vereinbarte Mindestlaufzeit beträgt einen Monat. Danach ist das Abo monatlich kündbar; die konkreten Kündigungsmodalitäten stehen im Vertrag.",
+    "tags": "laufzeit monatsabo mindestens"
+  },
+  {
+    "id": 12,
+    "category": "Abo & Kündigung",
+    "question": "Kann ich nach einem Monat kündigen?",
+    "answer": "Ja, nach der einmonatigen Mindestlaufzeit ist das Abo monatlich kündbar. Beachte die im Vertrag vereinbarten Termine und Bedingungen.",
+    "tags": "kündigen 1 monat"
+  },
+  {
+    "id": 13,
+    "category": "Abo & Kündigung",
+    "question": "Verlängert sich das Abo automatisch?",
+    "answer": "Das Abo ist nach dem ersten Monat als monatlich kündbares Modell vorgesehen. Wie Verlängerung und Kündigung genau geregelt sind, wird im Vertrag transparent festgelegt.",
+    "tags": "verlängern automatisch"
+  },
+  {
+    "id": 14,
+    "category": "Abo & Kündigung",
+    "question": "Was passiert mit der Website nach der Kündigung?",
+    "answer": "Die weitere Nutzung, Übergabe und technische Betreuung nach einer Kündigung müssen im Angebot beziehungsweise Vertrag ausdrücklich festgelegt werden. Dazu gibt es keine pauschale Zusage.",
+    "tags": "kündigung website eigentum"
+  },
+  {
+    "id": 15,
+    "category": "Abo & Kündigung",
+    "question": "Was umfasst die aktive Betreuung?",
+    "answer": "Im 49,95-€-Abo ist laufende aktive Betreuung zusätzlich zur Website-Erstellung vorgesehen. Dazu können vereinbarte Inhaltsanpassungen und technische Kontrollen gehören. Den genauen Umfang und Reaktionszeiten legen wir vorab schriftlich fest.",
+    "tags": "aktive betreuung pflege"
+  },
+  {
+    "id": 16,
+    "category": "Abo & Kündigung",
+    "question": "Sind unbegrenzt viele Änderungen im Abo inklusive?",
+    "answer": "Eine unbegrenzte Anzahl an Änderungen ist nicht pauschal zugesagt. Die enthaltenen Betreuungsleistungen werden im individuellen Angebot konkret beschrieben.",
+    "tags": "unbegrenzt änderungen"
+  },
+  {
+    "id": 17,
+    "category": "Abo & Kündigung",
+    "question": "Kann ich vom Abo zum Festpreis wechseln?",
+    "answer": "Ein Wechsel kann individuell besprochen werden. Ob und zu welchen Konditionen er möglich ist, wird vorab schriftlich vereinbart.",
+    "tags": "abo wechseln festpreis"
+  },
+  {
+    "id": 18,
+    "category": "Abo & Kündigung",
+    "question": "Muss ich für Hosting ein zusätzliches Abo buchen?",
+    "answer": "Hostingkosten können unabhängig von Juli Consulting beim Anbieter anfallen. Eine verpflichtende zusätzliche Agentur-Mitgliedschaft ist nicht vorgesehen.",
+    "tags": "hosting abo pflicht"
+  },
+  {
+    "id": 19,
+    "category": "Abo & Kündigung",
+    "question": "Ist die Website im Abo schlechter ausgestattet?",
+    "answer": "Nein. Die vereinbarten Leistungen zur Website-Erstellung sind im Festpreis- und Abomodell gleich. Im Abo kommt die laufende Betreuung hinzu.",
+    "tags": "abo unterschied qualität"
+  },
+  {
+    "id": 20,
+    "category": "Abo & Kündigung",
+    "question": "Wie stelle ich Fragen zu meinen Abo-Bedingungen?",
+    "answer": "Nutze das Kontaktformular und wähle „Abo – 49,95 € brutto / Monat“. Individuelle Vertragsfragen werden vor Abschluss persönlich geklärt.",
+    "tags": "abo vertragsfragen kontakt"
+  },
+  {
+    "id": 21,
+    "category": "Webdesign & Gestaltung",
+    "question": "Erstellt ihr individuelle Websites?",
+    "answer": "Ja. Das Design wird auf dein Unternehmen, die Zielgruppe, die Inhalte und den vereinbarten Umfang abgestimmt.",
+    "tags": "individuell design"
+  },
+  {
+    "id": 22,
+    "category": "Webdesign & Gestaltung",
+    "question": "Bekomme ich eine mobile Website?",
+    "answer": "Ja. Responsive Gestaltung für Smartphone, Tablet und Desktop gehört zum vereinbarten Grundumfang.",
+    "tags": "mobile responsive"
+  },
+  {
+    "id": 23,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann ich mein vorhandenes Logo verwenden?",
+    "answer": "Ja, wenn du die nötigen Nutzungsrechte besitzt und eine geeignete Datei bereitstellst, lässt sich dein Logo in das Design integrieren.",
+    "tags": "logo marke"
+  },
+  {
+    "id": 24,
+    "category": "Webdesign & Gestaltung",
+    "question": "Übernehmt ihr meine Unternehmensfarben?",
+    "answer": "Ja. Bestehende Markenfarben können berücksichtigt oder bei Bedarf gestalterisch sinnvoll ergänzt werden.",
+    "tags": "farben corporate design"
+  },
+  {
+    "id": 25,
+    "category": "Webdesign & Gestaltung",
+    "question": "Sind Animationen möglich?",
+    "answer": "Ja, dezente Scroll-, Übergangs- oder Videoanimationen sind nach technischer und wirtschaftlicher Prüfung möglich. Größerer Sonderaufwand wird vorab angeboten.",
+    "tags": "animationen bewegung"
+  },
+  {
+    "id": 26,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann ein Video auf der Startseite laufen?",
+    "answer": "Ja, ein passendes Startseitenvideo lässt sich je nach Material, Dateigröße und Endgerät integrieren. Die mobile Ladegeschwindigkeit bleibt wichtig.",
+    "tags": "hero video startseite"
+  },
+  {
+    "id": 27,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann die Website meinen Handwerksbetrieb zeigen?",
+    "answer": "Ja. Leistungen, Materialien, Arbeitsweise, Team und echte Projekte können branchengerecht aufbereitet werden.",
+    "tags": "handwerk tischlerei"
+  },
+  {
+    "id": 28,
+    "category": "Webdesign & Gestaltung",
+    "question": "Entwickelt ihr Websites für Restaurants?",
+    "answer": "Ja. Mögliche Inhalte sind Speisekarte, Atmosphäre, Öffnungszeiten, Bilder und Kontakt. Buchungsfunktionen werden gesondert abgestimmt.",
+    "tags": "restaurant gastronomie"
+  },
+  {
+    "id": 29,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann ich mehrere Designvorschläge erhalten?",
+    "answer": "Je nach vereinbartem Projektumfang können unterschiedliche Designrichtungen oder Varianten vorbereitet werden. Die Anzahl wird im Angebot festgelegt.",
+    "tags": "designvarianten drei entwürfe"
+  },
+  {
+    "id": 30,
+    "category": "Webdesign & Gestaltung",
+    "question": "Erstellt ihr auch Logos?",
+    "answer": "Ein neues Logo oder eine umfassende Markenentwicklung ist als gesonderte Leistung möglich, wenn dies zum Projekt passt und vereinbart wird.",
+    "tags": "logo erstellen"
+  },
+  {
+    "id": 31,
+    "category": "Technik & Funktionen",
+    "question": "Funktioniert meine Website auf iPhone und Android?",
+    "answer": "Ja. Responsive Seiten werden für gängige Smartphone-Bildschirmgrößen ausgelegt und getestet, soweit geeignete Testgeräte und Browser verfügbar sind.",
+    "tags": "iphone android"
+  },
+  {
+    "id": 32,
+    "category": "Technik & Funktionen",
+    "question": "Kann ich ein Kontaktformular bekommen?",
+    "answer": "Ja. Ein Kontaktformular mit den vereinbarten Eingabefeldern kann integriert und mit einer geeigneten Formularlösung verbunden werden.",
+    "tags": "kontaktformular"
+  },
+  {
+    "id": 33,
+    "category": "Technik & Funktionen",
+    "question": "Werden Formulare per E-Mail zugestellt?",
+    "answer": "Das ist vorgesehen, wenn die Benachrichtigungen beim Formularanbieter korrekt eingerichtet sind. Die Zustellung wird nach Veröffentlichung mit einer Testanfrage geprüft.",
+    "tags": "formular email zustellung"
+  },
+  {
+    "id": 34,
+    "category": "Technik & Funktionen",
+    "question": "Kann ich einen Terminbuchungs-Kalender einbauen?",
+    "answer": "Ja, sofern ein geeigneter Kalenderdienst ausgewählt wird. Eventuelle Gebühren und Datenschutzfolgen werden vorab geklärt.",
+    "tags": "terminbuchung kalender"
+  },
+  {
+    "id": 35,
+    "category": "Technik & Funktionen",
+    "question": "Kann die Website eine Bildergalerie haben?",
+    "answer": "Ja. Eine Bildergalerie mit vergrößerbaren Ansichten oder Kategorien kann entsprechend dem vereinbarten Umfang eingebaut werden.",
+    "tags": "galerie fotos"
+  },
+  {
+    "id": 36,
+    "category": "Technik & Funktionen",
+    "question": "Sind interaktive Elemente möglich?",
+    "answer": "Ja, beispielsweise Tabs, Schieberegler, Akkordeons oder interaktive Karten. Funktionen müssen nutzbar, barrierearm und wartbar bleiben.",
+    "tags": "interaktiv tabs"
+  },
+  {
+    "id": 37,
+    "category": "Technik & Funktionen",
+    "question": "Kann eine Website mehrere Unterseiten haben?",
+    "answer": "Ja. Seitenzahl und Aufbau richten sich nach Inhalt, Ziel und vereinbartem Preis.",
+    "tags": "unterseiten menü"
+  },
+  {
+    "id": 38,
+    "category": "Technik & Funktionen",
+    "question": "Kann man die Website später erweitern?",
+    "answer": "Ja, neue Bereiche oder Funktionen können nach einer technischen Prüfung und separater Absprache ergänzt werden.",
+    "tags": "erweitern später"
+  },
+  {
+    "id": 39,
+    "category": "Technik & Funktionen",
+    "question": "Kann ich PDFs zum Herunterladen anbieten?",
+    "answer": "Ja. Bereitgestellte PDF-Dateien können passend beschriftet und verlinkt werden, sofern die Nutzungsrechte vorliegen.",
+    "tags": "pdf download"
+  },
+  {
+    "id": 40,
+    "category": "Technik & Funktionen",
+    "question": "Baut ihr auch einen Onlineshop?",
+    "answer": "Ein Onlineshop benötigt zusätzliche Funktionen, rechtliche Anforderungen und oft einen externen Dienst. Dafür erstellen wir nach Prüfung ein gesondertes Angebot.",
+    "tags": "shop ecommerce"
+  },
+  {
+    "id": 41,
+    "category": "SEO & Google",
+    "question": "Wird meine Website bei Google gefunden?",
+    "answer": "Die Website wird mit technischen SEO-Grundlagen vorbereitet. Ob und wann Google sie indexiert oder bei bestimmten Suchen zeigt, entscheidet Google.",
+    "tags": "google finden sichtbar"
+  },
+  {
+    "id": 42,
+    "category": "SEO & Google",
+    "question": "Ist SEO im Preis enthalten?",
+    "answer": "SEO-Grundlagen wie Seitentitel, Struktur, relevante Inhalte und technische Erfassbarkeit gehören zum vereinbarten Basisumfang. Fortlaufende SEO-Arbeit ist gesondert abzustimmen.",
+    "tags": "seo inklusive"
+  },
+  {
+    "id": 43,
+    "category": "SEO & Google",
+    "question": "Garantiert ihr Platz 1 bei Google?",
+    "answer": "Nein. Eine bestimmte Google-Platzierung kann seriös nicht garantiert werden.",
+    "tags": "platz 1 ranking"
+  },
+  {
+    "id": 44,
+    "category": "SEO & Google",
+    "question": "Was ist die Google Search Console?",
+    "answer": "Die Search Console ist ein kostenloser Google-Dienst, mit dem Website-Eigentümer unter anderem Indexierung und Suchleistung prüfen können.",
+    "tags": "search console"
+  },
+  {
+    "id": 45,
+    "category": "SEO & Google",
+    "question": "Meldet ihr meine Sitemap bei Google an?",
+    "answer": "Die technische Sitemap kann erstellt und ihre Einreichung in der Search Console bei vorhandenen Zugängen begleitet werden.",
+    "tags": "sitemap"
+  },
+  {
+    "id": 46,
+    "category": "SEO & Google",
+    "question": "Was sind Meta-Titel und Beschreibungen?",
+    "answer": "Das sind Informationen im Seitenquelltext, die Suchmaschinen helfen, Inhalt und Thema einer Seite einzuordnen.",
+    "tags": "meta titel"
+  },
+  {
+    "id": 47,
+    "category": "SEO & Google",
+    "question": "Bietet ihr lokale Suchmaschinenoptimierung an?",
+    "answer": "Ja, die Website kann auf die tatsächliche Region und passende lokale Suchbegriffe ausgerichtet werden.",
+    "tags": "lokale seo"
+  },
+  {
+    "id": 48,
+    "category": "SEO & Google",
+    "question": "Kann ich bei Google Maps erscheinen?",
+    "answer": "Wenn dein Unternehmen die Google-Richtlinien erfüllt, kann ein Unternehmensprofil angelegt oder gepflegt werden. Die tatsächliche Sichtbarkeit hängt von Google ab.",
+    "tags": "maps unternehmensprofil"
+  },
+  {
+    "id": 49,
+    "category": "SEO & Google",
+    "question": "Wie lange dauert die Google-Indexierung?",
+    "answer": "Das kann unterschiedlich lange dauern. Auch eine beantragte Indexierung ist keine Garantie für die Aufnahme in den Google-Index.",
+    "tags": "indexierung dauer"
+  },
+  {
+    "id": 50,
+    "category": "SEO & Google",
+    "question": "Baut ihr strukturierte Daten ein?",
+    "answer": "Wo sachlich sinnvoll, können korrekte strukturierte Unternehmensdaten eingebaut werden. Sie garantieren keine besondere Darstellung bei Google.",
+    "tags": "strukturierte daten schema"
+  },
+  {
+    "id": 51,
+    "category": "Domain & Hosting",
+    "question": "Kann ich meine bisherige Domain behalten?",
+    "answer": "In vielen Fällen ja. Wir prüfen den Domainanbieter und verbinden die bestehende Domain nach Absprache mit dem neuen Hosting.",
+    "tags": "domain behalten"
+  },
+  {
+    "id": 52,
+    "category": "Domain & Hosting",
+    "question": "Was ist der Unterschied zwischen Domain und Hosting?",
+    "answer": "Die Domain ist deine Webadresse. Hosting ist der technische Dienst, auf dem die Website gespeichert und ausgeliefert wird.",
+    "tags": "domain hosting unterschied"
+  },
+  {
+    "id": 53,
+    "category": "Domain & Hosting",
+    "question": "Arbeitet ihr mit Netlify?",
+    "answer": "Ja, für statische Unternehmenswebsites kann Netlify eine geeignete Hosting-Lösung sein. Der Einsatz wird projektspezifisch geprüft.",
+    "tags": "netlify"
+  },
+  {
+    "id": 54,
+    "category": "Domain & Hosting",
+    "question": "Kann meine Domain bei IONOS bleiben?",
+    "answer": "Ja, häufig lässt sich eine bei IONOS verwaltete Domain mit externem Website-Hosting verbinden, ohne die Domain umzuziehen.",
+    "tags": "ionos"
+  },
+  {
+    "id": 55,
+    "category": "Domain & Hosting",
+    "question": "Brauche ich ein eigenes Hosting-Konto?",
+    "answer": "Bei einer Kundenwebsite ist ein eigenes Hosting-Konto sinnvoll, damit du langfristig die Kontrolle über dein Projekt behältst.",
+    "tags": "konto zugang"
+  },
+  {
+    "id": 56,
+    "category": "Domain & Hosting",
+    "question": "Wird meine bisherige E-Mail weiter funktionieren?",
+    "answer": "Bei einer Domainumstellung sollen die vorhandenen E-Mail-DNS-Einträge erhalten bleiben. Vorher prüfen wir die Konfiguration; Ausfälle können nicht pauschal ausgeschlossen werden.",
+    "tags": "email weiter dns mx"
+  },
+  {
+    "id": 57,
+    "category": "Domain & Hosting",
+    "question": "Was bedeutet DNS?",
+    "answer": "DNS verbindet eine Domain unter anderem mit Website-Servern und E-Mail-Diensten. Änderungen sollten sorgfältig geprüft werden.",
+    "tags": "dns"
+  },
+  {
+    "id": 58,
+    "category": "Domain & Hosting",
+    "question": "Könnt ihr meine alte Website ersetzen?",
+    "answer": "Ja, nach Prüfung von Domain, Hosting, Weiterleitungen und E-Mail-Diensten wird der Relaunch geplant. Die alte Seite wird erst zum passenden Zeitpunkt abgelöst.",
+    "tags": "alte website ersetzen"
+  },
+  {
+    "id": 59,
+    "category": "Domain & Hosting",
+    "question": "Ist ein SSL-Zertifikat nötig?",
+    "answer": "Für eine sichere HTTPS-Verbindung ist ein geeignetes TLS-Zertifikat notwendig. Viele Hostinganbieter stellen dieses automatisch bereit.",
+    "tags": "ssl zertifikat"
+  },
+  {
+    "id": 60,
+    "category": "Domain & Hosting",
+    "question": "Kann ich den Hosting-Anbieter später wechseln?",
+    "answer": "Ein Wechsel ist grundsätzlich möglich; der Aufwand hängt von Website, Domain, Formularen und eingesetzten Diensten ab.",
+    "tags": "anbieter wechseln migration"
+  },
+  {
+    "id": 61,
+    "category": "Kontakt & Ablauf",
+    "question": "Wie kann ich Juli Consulting kontaktieren?",
+    "answer": "Über das Kontaktformular auf dieser Website oder per E-Mail an kontakt@juli-consulting.de.",
+    "tags": "kontakt mail"
+  },
+  {
+    "id": 62,
+    "category": "Kontakt & Ablauf",
+    "question": "Ist die erste Anfrage unverbindlich?",
+    "answer": "Ja. Die erste Anfrage ist kostenlos und unverbindlich; ein kostenpflichtiger Auftrag entsteht erst durch entsprechende Vereinbarung.",
+    "tags": "erstkontakt unverbindlich"
+  },
+  {
+    "id": 63,
+    "category": "Kontakt & Ablauf",
+    "question": "Wie läuft ein Website-Projekt ab?",
+    "answer": "Wir besprechen den Bedarf, vereinbaren Leistungen und Preis, gestalten die Website und veröffentlichen sie nach deiner Freigabe.",
+    "tags": "ablauf projekt"
+  },
+  {
+    "id": 64,
+    "category": "Kontakt & Ablauf",
+    "question": "Wie lange dauert die Erstellung?",
+    "answer": "Die Dauer hängt von Umfang, vorhandenen Inhalten und Korrekturen ab. Einen Termin vereinbaren wir passend zum konkreten Projekt.",
+    "tags": "dauer erstellung"
+  },
+  {
+    "id": 65,
+    "category": "Kontakt & Ablauf",
+    "question": "Kann ich persönliche Beratung bekommen?",
+    "answer": "Ja. Juli Consulting berät persönlich, telefonisch und online. Vor-Ort-Termine sind nach Vereinbarung möglich.",
+    "tags": "persönliche beratung"
+  },
+  {
+    "id": 66,
+    "category": "Kontakt & Ablauf",
+    "question": "Kann ich nur per E-Mail kommunizieren?",
+    "answer": "Ja, wenn das für dein Projekt passt, können Abstimmungen auch schriftlich erfolgen.",
+    "tags": "email kommunikation"
+  },
+  {
+    "id": 67,
+    "category": "Kontakt & Ablauf",
+    "question": "Wer ist mein Ansprechpartner?",
+    "answer": "Du kommunizierst direkt mit dem Inhaber von Juli Consulting.",
+    "tags": "ansprechpartner"
+  },
+  {
+    "id": 68,
+    "category": "Kontakt & Ablauf",
+    "question": "Was muss ich vor dem Projekt liefern?",
+    "answer": "Hilfreich sind Unternehmensdaten, Leistungen, Logo, vorhandene Bilder, gewünschte Inhalte und Informationen zu Domain und Hosting.",
+    "tags": "unterlagen liefern"
+  },
+  {
+    "id": 69,
+    "category": "Kontakt & Ablauf",
+    "question": "Wann bekomme ich ein Angebot?",
+    "answer": "Nach einer ersten Klärung deines Bedarfs wird ein Angebot mit Leistungsumfang, Preis und möglichen Fremdkosten erstellt.",
+    "tags": "angebot zeitpunkt"
+  },
+  {
+    "id": 70,
+    "category": "Kontakt & Ablauf",
+    "question": "Kann ich zunächst nur eine Idee besprechen?",
+    "answer": "Ja. Du kannst dein Vorhaben unverbindlich schildern, auch wenn noch keine fertige Struktur oder Bildauswahl vorhanden ist.",
+    "tags": "idee besprechen"
+  },
+  {
+    "id": 71,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich eigene Fotos verwenden?",
+    "answer": "Ja. Eigene oder zur Nutzung freigegebene Fotos können eingebaut und für das Web optimiert werden.",
+    "tags": "eigene bilder"
+  },
+  {
+    "id": 72,
+    "category": "Inhalte & Pflege",
+    "question": "Könnt ihr meine vorhandenen Texte überarbeiten?",
+    "answer": "Ja, vorhandene Texte können nach Vereinbarung sprachlich und strukturell überarbeitet werden. Unternehmensfakten stimmen wir dabei mit dir ab.",
+    "tags": "texte überarbeiten"
+  },
+  {
+    "id": 73,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich Öffnungszeiten ändern lassen?",
+    "answer": "Ja. Öffnungszeiten und vergleichbare Angaben lassen sich im vereinbarten Betreuungsrahmen oder als separate Änderung aktualisieren.",
+    "tags": "öffnungszeiten"
+  },
+  {
+    "id": 74,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich meine Website selbst bearbeiten?",
+    "answer": "Je nach technischer Lösung kann eine einfache Bearbeitungsfunktion vorgesehen werden. Bei reinem HTML ist dafür gegebenenfalls eine zusätzliche Lösung nötig.",
+    "tags": "selbst bearbeiten"
+  },
+  {
+    "id": 75,
+    "category": "Inhalte & Pflege",
+    "question": "Bietet ihr regelmäßige Aktualisierungen an?",
+    "answer": "Im Website-Abo ist aktive Betreuung vorgesehen. Welche Aktualisierungen enthalten sind, wird vorab im Angebot beschrieben.",
+    "tags": "regelmäßig aktualisieren"
+  },
+  {
+    "id": 76,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich neue Mitarbeiter auf der Website ergänzen?",
+    "answer": "Ja, entsprechende Inhalte können nach Absprache ergänzt werden, sofern die Personen und Bildrechte berücksichtigt werden.",
+    "tags": "team mitarbeiter"
+  },
+  {
+    "id": 77,
+    "category": "Inhalte & Pflege",
+    "question": "Könnt ihr meine Speisekarte aktualisieren?",
+    "answer": "Ja, eine vorhandene Online-Speisekarte kann nach vereinbartem Umfang geändert oder neu gestaltet werden.",
+    "tags": "speisekarte aktualisieren"
+  },
+  {
+    "id": 78,
+    "category": "Inhalte & Pflege",
+    "question": "Was passiert, wenn sich meine Telefonnummer ändert?",
+    "answer": "Kontaktdaten lassen sich aktualisieren. Bei einem Abo richtet sich die enthaltene Pflege nach der vereinbarten Betreuung.",
+    "tags": "telefonnummer ändern"
+  },
+  {
+    "id": 79,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich neue Referenzen hinzufügen?",
+    "answer": "Ja. Neue freigegebene Projekte oder Arbeitsbeispiele können auf der Website ergänzt werden.",
+    "tags": "referenzen ergänzen"
+  },
+  {
+    "id": 80,
+    "category": "Inhalte & Pflege",
+    "question": "Gibt es automatische Website-Backups?",
+    "answer": "Welche Sicherungs- und Wiederherstellungsmöglichkeiten verfügbar sind, hängt vom Hosting und der vereinbarten Wartung ab. Das wird projektspezifisch geklärt.",
+    "tags": "backup sicherung"
+  },
+  {
+    "id": 81,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Braucht meine Website ein Impressum?",
+    "answer": "Geschäftliche Websites benötigen in Deutschland regelmäßig ein Impressum mit den jeweils gesetzlich erforderlichen Angaben. Die konkrete Prüfung liegt beim Betreiber.",
+    "tags": "impressum"
+  },
+  {
+    "id": 82,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Benötige ich eine Datenschutzerklärung?",
+    "answer": "Wenn personenbezogene Daten verarbeitet werden, ist die dafür notwendige Datenschutzinformation bereitzustellen. Die Inhalte müssen zur tatsächlichen Technik passen.",
+    "tags": "datenschutz"
+  },
+  {
+    "id": 83,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Brauche ich einen Cookie-Banner?",
+    "answer": "Nicht automatisch. Ob eine Einwilligung erforderlich ist, hängt von tatsächlich eingesetzten Cookies und vergleichbaren Technologien ab.",
+    "tags": "cookies banner"
+  },
+  {
+    "id": 84,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Ist ein Kontaktformular datenschutzkonform?",
+    "answer": "Es muss passend konfiguriert und die Datenverarbeitung transparent erklärt werden. Eine rechtliche Prüfung kann abhängig vom Einzelfall nötig sein.",
+    "tags": "formular datenschutz"
+  },
+  {
+    "id": 85,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Sind meine Formulare vor Spam geschützt?",
+    "answer": "Je nach Formularanbieter können Spamfilter und technische Schutzmaßnahmen eingesetzt werden. Ein vollständiger Schutz lässt sich nicht garantieren.",
+    "tags": "spam schutz"
+  },
+  {
+    "id": 86,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Bietet ihr rechtliche Beratung an?",
+    "answer": "Nein. Wir unterstützen bei der technischen Einbindung rechtlicher Seiten, ersetzen aber keine individuelle Rechtsberatung.",
+    "tags": "rechtsberatung"
+  },
+  {
+    "id": 87,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Kann ich Google Analytics einbauen?",
+    "answer": "Technisch ist das möglich. Zuvor müssen Datenschutz, Einwilligung und die tatsächliche Notwendigkeit geprüft werden.",
+    "tags": "analytics tracking"
+  },
+  {
+    "id": 88,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Wer kümmert sich um Updates und Sicherheit?",
+    "answer": "Technische Verantwortung und Wartungsumfang hängen von Hostingmodell und Vertrag ab. Das wird vorab klar abgegrenzt.",
+    "tags": "updates sicherheit"
+  },
+  {
+    "id": 89,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Sind meine Kundendaten sicher?",
+    "answer": "Sicherheit wird bei Gestaltung und Anbieterwahl berücksichtigt. Absolute Datensicherheit kann kein Dienstleister garantieren.",
+    "tags": "kundendaten sicher"
+  },
+  {
+    "id": 90,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Was passiert mit Daten aus dem Kontaktformular?",
+    "answer": "Sie werden über die eingesetzte Formularlösung verarbeitet, um die Anfrage zu beantworten. Details und Empfänger stehen in der Datenschutzerklärung.",
+    "tags": "daten aus formular"
+  },
+  {
+    "id": 91,
+    "category": "Region & Zusammenarbeit",
+    "question": "Wo sitzt Juli Consulting?",
+    "answer": "Juli Consulting arbeitet aus Beelitz-Heilstätten in Brandenburg und betreut Unternehmen persönlich oder digital.",
+    "tags": "standort beelitz"
+  },
+  {
+    "id": 92,
+    "category": "Region & Zusammenarbeit",
+    "question": "Arbeitet ihr in Potsdam?",
+    "answer": "Ja. Potsdam gehört zum regionalen Tätigkeitsgebiet von Juli Consulting.",
+    "tags": "potsdam"
+  },
+  {
+    "id": 93,
+    "category": "Region & Zusammenarbeit",
+    "question": "Bietet ihr Webdesign in Beelitz an?",
+    "answer": "Ja. Beelitz und Beelitz-Heilstätten sind der Ausgangspunkt des regionalen Angebots.",
+    "tags": "beelitz"
+  },
+  {
+    "id": 94,
+    "category": "Region & Zusammenarbeit",
+    "question": "Betreut ihr Kunden in Berlin?",
+    "answer": "Ja, Projekte in Berlin sind möglich. Persönliche Termine werden individuell vereinbart.",
+    "tags": "berlin"
+  },
+  {
+    "id": 95,
+    "category": "Region & Zusammenarbeit",
+    "question": "Arbeitet ihr auch außerhalb von Brandenburg?",
+    "answer": "Ja. Online-Projekte sind auch überregional möglich. Vor-Ort-Betreuung wird individuell abgestimmt.",
+    "tags": "deutschland überregional"
+  },
+  {
+    "id": 96,
+    "category": "Region & Zusammenarbeit",
+    "question": "Was bedeutet das 50-km-Einzugsgebiet?",
+    "answer": "Die Karte zeigt einen ungefähren 50-km-Luftlinienradius ab Beelitz-Heilstätten. Es ist keine Fahrzeit- oder feste Preiszusage.",
+    "tags": "50 km radius"
+  },
+  {
+    "id": 97,
+    "category": "Region & Zusammenarbeit",
+    "question": "Sind Hausbesuche möglich?",
+    "answer": "Persönliche Termine beim Kunden sind nach Absprache möglich. Juli Consulting unterhält keinen regulären Kundenempfang am privaten Geschäftsstandort.",
+    "tags": "vor ort besuch"
+  },
+  {
+    "id": 98,
+    "category": "Region & Zusammenarbeit",
+    "question": "Könnt ihr Unternehmen in Werder helfen?",
+    "answer": "Ja. Werder (Havel) gehört zum dargestellten regionalen Tätigkeitsgebiet.",
+    "tags": "werder"
+  },
+  {
+    "id": 99,
+    "category": "Region & Zusammenarbeit",
+    "question": "Bietet ihr Leistungen für kleine Unternehmen an?",
+    "answer": "Ja. Gerade kleinere Unternehmen, Handwerksbetriebe, Gastronomie und Selbstständige gehören zur Zielgruppe.",
+    "tags": "kleinunternehmen handwerker"
+  },
+  {
+    "id": 100,
+    "category": "Region & Zusammenarbeit",
+    "question": "Kann ich euch auch aus einer anderen Stadt anfragen?",
+    "answer": "Ja. Eine digitale Zusammenarbeit ist unabhängig vom Wohn- oder Firmensitz möglich.",
+    "tags": "andere stadt"
+  },
+  {
+    "id": 101,
+    "category": "Preise & Angebote",
+    "question": "Ist der Festpreis von 399 Euro einmalig?",
+    "answer": "Ja. Der Einstiegspreis ab 399,00 € brutto ist eine einmalige Vergütung für den vereinbarten Website-Auftrag; mögliche Domain- und Hostingkosten werden gesondert erläutert.",
+    "tags": "ist der festpreis von 399 euro einmalig?"
+  },
+  {
+    "id": 102,
+    "category": "Preise & Angebote",
+    "question": "Kann ich die Website in Raten bezahlen?",
+    "answer": "Eine Ratenzahlung ist nicht pauschal zugesagt. Sprich uns darauf an; wenn eine individuelle Zahlungsvereinbarung möglich ist, steht sie im Angebot.",
+    "tags": "kann ich die website in raten bezahlen?"
+  },
+  {
+    "id": 103,
+    "category": "Preise & Angebote",
+    "question": "Wie wird ein individuelles Angebot kalkuliert?",
+    "answer": "Maßgeblich sind Umfang, Anzahl der Unterseiten, Funktionen, vorhandene Inhalte und gewünschte Gestaltung. Du erhältst vor dem Start einen nachvollziehbaren Preis.",
+    "tags": "wie wird ein individuelles angebot kalkuliert?"
+  },
+  {
+    "id": 104,
+    "category": "Preise & Angebote",
+    "question": "Kostet eine zusätzliche Unterseite mehr?",
+    "answer": "Weitere Seiten können den Aufwand erhöhen. Ob dafür ein Aufpreis entsteht, klären wir vorab anhand deiner Seitenstruktur.",
+    "tags": "kostet eine zusätzliche unterseite mehr?"
+  },
+  {
+    "id": 105,
+    "category": "Preise & Angebote",
+    "question": "Sind Korrekturschleifen im Preis enthalten?",
+    "answer": "Korrekturen werden innerhalb des vereinbarten Leistungsumfangs berücksichtigt. Anzahl und Umfang der Korrekturrunden legen wir im Angebot fest.",
+    "tags": "sind korrekturschleifen im preis enthalten?"
+  },
+  {
+    "id": 106,
+    "category": "Preise & Angebote",
+    "question": "Gibt es einen Aufpreis für besondere Animationen?",
+    "answer": "Aufwendige Animationen können zusätzliche Entwicklungszeit erfordern. Wir besprechen den Wunsch vorab und berücksichtigen ihn in einem individuellen Angebot.",
+    "tags": "gibt es einen aufpreis für besondere animationen?"
+  },
+  {
+    "id": 107,
+    "category": "Preise & Angebote",
+    "question": "Wird die Mehrwertsteuer im Angebot ausgewiesen?",
+    "answer": "Die Website zeigt Bruttopreise. Die konkrete Rechnungsstellung richtet sich nach der geltenden steuerlichen Behandlung und wird im individuellen Angebot nachvollziehbar dargestellt.",
+    "tags": "wird die mehrwertsteuer im angebot ausgewiesen?"
+  },
+  {
+    "id": 108,
+    "category": "Preise & Angebote",
+    "question": "Kostet eine Erstberatung etwas?",
+    "answer": "Die erste unverbindliche Projektanfrage ist kostenlos. Falls später eine gesonderte kostenpflichtige Beratung nötig wird, wird sie vorab vereinbart.",
+    "tags": "kostet eine erstberatung etwas?"
+  },
+  {
+    "id": 109,
+    "category": "Preise & Angebote",
+    "question": "Kann ich einzelne Leistungen statt einer gesamten Website beauftragen?",
+    "answer": "Ja, beispielsweise Optimierung oder Relaunch einzelner Bereiche nach individueller Absprache. Umfang und Preis werden separat angeboten.",
+    "tags": "kann ich einzelne leistungen statt einer gesamten website beauftragen?"
+  },
+  {
+    "id": 110,
+    "category": "Preise & Angebote",
+    "question": "Sind professionelle Stockfotos im Website-Preis enthalten?",
+    "answer": "Vorhandene eigene Bilder können eingebunden werden. Für kostenpflichtige Bildlizenzen entstehen gegebenenfalls zusätzliche Kosten, über die wir vorher informieren.",
+    "tags": "sind professionelle stockfotos im website-preis enthalten?"
+  },
+  {
+    "id": 111,
+    "category": "Preise & Angebote",
+    "question": "Was kostet ein späterer Seitenumbau?",
+    "answer": "Die Kosten richten sich nach Art und Umfang der gewünschten Änderung. Beim Festpreis werden spätere Arbeiten separat abgestimmt, beim Abo nach dem vereinbarten Betreuungsumfang.",
+    "tags": "was kostet ein späterer seitenumbau?"
+  },
+  {
+    "id": 112,
+    "category": "Preise & Angebote",
+    "question": "Erhalte ich ein schriftliches Angebot?",
+    "answer": "Ja. Vor dem kostenpflichtigen Projektstart wird der Leistungsumfang mit Preis und gegebenenfalls Fremdkosten schriftlich festgehalten.",
+    "tags": "erhalte ich ein schriftliches angebot?"
+  },
+  {
+    "id": 113,
+    "category": "Preise & Angebote",
+    "question": "Kann der Preis während der Umsetzung steigen?",
+    "answer": "Nicht ohne Absprache: Zusatzwünsche werden vor der Umsetzung besprochen und nur nach Zustimmung als Mehrleistung vereinbart.",
+    "tags": "kann der preis während der umsetzung steigen?"
+  },
+  {
+    "id": 114,
+    "category": "Preise & Angebote",
+    "question": "Gibt es einen Pauschalpreis für einen Onlineshop?",
+    "answer": "Für Shops ist wegen Zahlungsfunktionen, Produkten und rechtlichen Anforderungen eine individuelle Kalkulation sinnvoll. Der 399-€-Einstiegspreis garantiert keinen vollständigen Shop.",
+    "tags": "gibt es einen pauschalpreis für einen onlineshop?"
+  },
+  {
+    "id": 115,
+    "category": "Preise & Angebote",
+    "question": "Sind Rechnungen für Unternehmen möglich?",
+    "answer": "Ja, für vereinbarte Leistungen erhältst du eine Rechnung mit den rechtlich erforderlichen Rechnungsangaben.",
+    "tags": "sind rechnungen für unternehmen möglich?"
+  },
+  {
+    "id": 116,
+    "category": "Abo & Kündigung",
+    "question": "Was kostet das Abo pro Jahr?",
+    "answer": "Bei zwölf Monaten zu jeweils 49,95 € brutto wären es rechnerisch 599,40 € brutto. Das Abo ist nach der Mindestlaufzeit monatlich kündbar; du musst nicht zwölf Monate buchen.",
+    "tags": "was kostet das abo pro jahr?"
+  },
+  {
+    "id": 117,
+    "category": "Abo & Kündigung",
+    "question": "Kann ich das Monatsabo nur einen Monat nutzen?",
+    "answer": "Die Mindestlaufzeit beträgt einen Monat, danach ist es monatlich kündbar. Details zum Kündigungstermin und zu den Folgen für die Website werden vor Abschluss schriftlich geregelt.",
+    "tags": "kann ich das monatsabo nur einen monat nutzen?"
+  },
+  {
+    "id": 118,
+    "category": "Abo & Kündigung",
+    "question": "Muss ich beim Abo eine Anzahlung leisten?",
+    "answer": "Eine pauschale zusätzliche Anzahlung ist nicht festgelegt. Alle tatsächlich anfallenden Zahlungen stehen vor Vertragsabschluss im Angebot.",
+    "tags": "muss ich beim abo eine anzahlung leisten?"
+  },
+  {
+    "id": 119,
+    "category": "Abo & Kündigung",
+    "question": "Sind im Abo regelmäßig Textänderungen möglich?",
+    "answer": "Laufende Inhaltsanpassungen können zur aktiven Betreuung gehören. Anzahl und Umfang vereinbaren wir schriftlich, damit die Betreuung planbar bleibt.",
+    "tags": "sind im abo regelmäßig textänderungen möglich?"
+  },
+  {
+    "id": 120,
+    "category": "Abo & Kündigung",
+    "question": "Wer aktualisiert Bilder während des Abos?",
+    "answer": "Bildwechsel können Teil der laufenden Betreuung sein. Schicke uns Bilder, an denen die nötigen Nutzungsrechte bestehen; der konkrete Umfang richtet sich nach deiner Vereinbarung.",
+    "tags": "wer aktualisiert bilder während des abos?"
+  },
+  {
+    "id": 121,
+    "category": "Abo & Kündigung",
+    "question": "Gibt es eine Reaktionszeit für Abo-Kunden?",
+    "answer": "Eine bestimmte Reaktionszeit wird nicht pauschal garantiert. Falls du feste Reaktionszeiten benötigst, vereinbaren wir diese gesondert.",
+    "tags": "gibt es eine reaktionszeit für abo-kunden?"
+  },
+  {
+    "id": 122,
+    "category": "Abo & Kündigung",
+    "question": "Kann ich das Abo pausieren?",
+    "answer": "Eine Pausenregelung ist nicht pauschal vorgesehen. Frage nach einer individuellen Lösung; verbindlich ist nur die schriftliche Vereinbarung.",
+    "tags": "kann ich das abo pausieren?"
+  },
+  {
+    "id": 123,
+    "category": "Abo & Kündigung",
+    "question": "Wie kann ich das Abo kündigen?",
+    "answer": "Die zulässigen Kündigungswege, Fristen und Termine werden im Vertrag festgelegt. Frage vor Abschluss nach den konkreten Bedingungen und einer Bestätigung.",
+    "tags": "wie kann ich das abo kündigen?"
+  },
+  {
+    "id": 124,
+    "category": "Abo & Kündigung",
+    "question": "Was passiert, wenn ich eine Monatsrechnung nicht bezahle?",
+    "answer": "Das richtet sich nach den vertraglichen Zahlungsregeln und gesetzlichen Vorgaben. Zahlungserinnerungen und mögliche Folgen sollten im Vertrag transparent geregelt sein.",
+    "tags": "was passiert, wenn ich eine monatsrechnung nicht bezahle?"
+  },
+  {
+    "id": 125,
+    "category": "Abo & Kündigung",
+    "question": "Sind Sicherheitskontrollen im Abo enthalten?",
+    "answer": "Regelmäßige technische Kontrollen können Teil der aktiven Betreuung sein. Welche Kontrollen durchgeführt werden, steht im vereinbarten Leistungsumfang.",
+    "tags": "sind sicherheitskontrollen im abo enthalten?"
+  },
+  {
+    "id": 126,
+    "category": "Abo & Kündigung",
+    "question": "Kann ich von einem bestehenden Festpreisprojekt in die Betreuung wechseln?",
+    "answer": "Ja, eine spätere Betreuungsvereinbarung kann individuell besprochen werden. Preise und Leistungsumfang werden vor Beginn festgelegt.",
+    "tags": "kann ich von einem bestehenden festpreisprojekt in die betreuung wechseln?"
+  },
+  {
+    "id": 127,
+    "category": "Abo & Kündigung",
+    "question": "Kann ich die Betreuung im Abo selbst priorisieren?",
+    "answer": "Du kannst Wünsche und dringliche Änderungen mitteilen. Reihenfolge und Umfang der Arbeiten richten sich nach den vereinbarten Betreuungsleistungen.",
+    "tags": "kann ich die betreuung im abo selbst priorisieren?"
+  },
+  {
+    "id": 128,
+    "category": "Abo & Kündigung",
+    "question": "Ist eine komplett neue Website pro Monat im Abo enthalten?",
+    "answer": "Nein, das Abo ist kein Versprechen unbegrenzter Neuentwicklungen. Enthalten sind die vereinbarte Website-Erstellung und laufende Betreuung nach Vertragsumfang.",
+    "tags": "ist eine komplett neue website pro monat im abo enthalten?"
+  },
+  {
+    "id": 129,
+    "category": "Abo & Kündigung",
+    "question": "Wer bezahlt die Domain während des Abos?",
+    "answer": "Die Domain verbleibt idealerweise beim Kunden. Deren Gebühren können zusätzlich direkt beim Domainanbieter entstehen und werden vorab erklärt.",
+    "tags": "wer bezahlt die domain während des abos?"
+  },
+  {
+    "id": 130,
+    "category": "Abo & Kündigung",
+    "question": "Wird beim Abo auch die E-Mail-Adresse betreut?",
+    "answer": "Ein professionelles E-Mail-Postfach ist eine eigene Leistung und nicht automatisch enthalten. Die Betreuung kann nach individueller Vereinbarung erweitert werden.",
+    "tags": "wird beim abo auch die e-mail-adresse betreut?"
+  },
+  {
+    "id": 131,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann meine Website andere Farben als die Referenzen bekommen?",
+    "answer": "Ja. Farben, Schriften und Layout orientieren sich an deinem Unternehmen, nicht an einer starren Vorlage.",
+    "tags": "kann meine website andere farben als die referenzen bekommen?"
+  },
+  {
+    "id": 132,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kannst du mein bestehendes Logo einbauen?",
+    "answer": "Ja, sofern du die Datei und Nutzungsrechte bereitstellst. Wir stimmen Größe, Farben und Platzierung auf das Layout ab.",
+    "tags": "kannst du mein bestehendes logo einbauen?"
+  },
+  {
+    "id": 133,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann ich ein eigenes Foto als Startseitenbild verwenden?",
+    "answer": "Ja. Eigene, ausreichend hochwertige Fotos wirken oft besonders authentisch und können passend zugeschnitten und optimiert werden.",
+    "tags": "kann ich ein eigenes foto als startseitenbild verwenden?"
+  },
+  {
+    "id": 134,
+    "category": "Webdesign & Gestaltung",
+    "question": "Welche Schriftarten empfiehlst du für Handwerksbetriebe?",
+    "answer": "Meist eignen sich klare, gut lesbare und markante Schriften. Die konkrete Auswahl hängt vom Charakter des Betriebs ab und sollte auf allen Geräten funktionieren.",
+    "tags": "welche schriftarten empfiehlst du für handwerksbetriebe?"
+  },
+  {
+    "id": 135,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann meine Website rustikal statt minimalistisch aussehen?",
+    "answer": "Ja. Ein rustikales Design mit Holz- oder Naturtönen ist ebenso möglich wie ein technisches oder sehr reduziertes Design.",
+    "tags": "kann meine website rustikal statt minimalistisch aussehen?"
+  },
+  {
+    "id": 136,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann die Website wie ein hochwertiges Magazin gestaltet werden?",
+    "answer": "Ja. Editorial-Layouts mit großen Bildern und typografischen Akzenten sind möglich, wenn sie zur Marke und Zielgruppe passen.",
+    "tags": "kann die website wie ein hochwertiges magazin gestaltet werden?"
+  },
+  {
+    "id": 137,
+    "category": "Webdesign & Gestaltung",
+    "question": "Ist ein animierter Einstieg möglich?",
+    "answer": "Ja. Dezente Animationen oder Videohintergründe sind technisch möglich; wir berücksichtigen Ladezeit, mobile Bedienung und Nutzer mit reduzierter Bewegung.",
+    "tags": "ist ein animierter einstieg möglich?"
+  },
+  {
+    "id": 138,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann meine Website einen dunklen Hintergrund erhalten?",
+    "answer": "Ja. Dunkle Designs können besonders bei Technik, Automobil oder Premium-Dienstleistungen passen. Kontrast und Lesbarkeit bleiben wichtig.",
+    "tags": "kann meine website einen dunklen hintergrund erhalten?"
+  },
+  {
+    "id": 139,
+    "category": "Webdesign & Gestaltung",
+    "question": "Wie wird meine Website unverwechselbar?",
+    "answer": "Mit echten Unternehmensinhalten, einer passenden Bildsprache, durchdachtem Layout und individuellen Schriften statt eines austauschbaren Standardauftritts.",
+    "tags": "wie wird meine website unverwechselbar?"
+  },
+  {
+    "id": 140,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann ich drei Designs vergleichen, bevor wir starten?",
+    "answer": "Verschiedene Gestaltungsrichtungen können je nach Angebot erstellt werden. Anzahl und Tiefe der Entwürfe vereinbaren wir vorab.",
+    "tags": "kann ich drei designs vergleichen, bevor wir starten?"
+  },
+  {
+    "id": 141,
+    "category": "Webdesign & Gestaltung",
+    "question": "Wird mein Design auch auf Tablets angepasst?",
+    "answer": "Ja. Die vereinbarte Website wird responsiv umgesetzt und an typische Bildschirmbreiten angepasst.",
+    "tags": "wird mein design auch auf tablets angepasst?"
+  },
+  {
+    "id": 142,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann man einzelne Abschnitte beim Scrollen einblenden?",
+    "answer": "Ja, solche Effekte können eingesetzt werden. Sie sollen die Orientierung verbessern und die Website nicht unnötig verlangsamen.",
+    "tags": "kann man einzelne abschnitte beim scrollen einblenden?"
+  },
+  {
+    "id": 143,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann ein Video stumm im Hintergrund ablaufen?",
+    "answer": "Ja, ein passendes Video kann stumm, für Mobilgeräte optimiert und mit einem Standbild als Ersatz eingebunden werden; Nutzungsrechte müssen geklärt sein.",
+    "tags": "kann ein video stumm im hintergrund ablaufen?"
+  },
+  {
+    "id": 144,
+    "category": "Webdesign & Gestaltung",
+    "question": "Kann man besondere Produkte groß präsentieren?",
+    "answer": "Ja. Produktgalerien, Detailansichten und visuelle Themenseiten können die wichtigsten Leistungen oder Produkte zeigen.",
+    "tags": "kann man besondere produkte groß präsentieren?"
+  },
+  {
+    "id": 145,
+    "category": "Webdesign & Gestaltung",
+    "question": "Wie lange bleibt ein Design modern?",
+    "answer": "Ein gutes Design ist nicht an einen kurzfristigen Effekt gebunden. Inhalte, Technik und Gestaltung können bei Bedarf weiterentwickelt werden.",
+    "tags": "wie lange bleibt ein design modern?"
+  },
+  {
+    "id": 146,
+    "category": "Technik & Funktionen",
+    "question": "Kann die Website ohne kompliziertes Baukastensystem laufen?",
+    "answer": "Ja. Schlankes HTML, CSS und JavaScript ist für viele Unternehmenswebsites ausreichend und gut wartbar.",
+    "tags": "kann die website ohne kompliziertes baukastensystem laufen?"
+  },
+  {
+    "id": 147,
+    "category": "Technik & Funktionen",
+    "question": "Ist eine Terminbuchung möglich?",
+    "answer": "Ja. Ein Buchungslink oder ein passendes Buchungssystem lässt sich je nach Anbieter integrieren; mögliche Drittanbieter-Kosten werden besprochen.",
+    "tags": "ist eine terminbuchung möglich?"
+  },
+  {
+    "id": 148,
+    "category": "Technik & Funktionen",
+    "question": "Kann ich eine Galerie mit anklickbaren Bildern bekommen?",
+    "answer": "Ja. Fotos können in einer Galerie organisiert und bei Klick vergrößert angezeigt werden.",
+    "tags": "kann ich eine galerie mit anklickbaren bildern bekommen?"
+  },
+  {
+    "id": 149,
+    "category": "Technik & Funktionen",
+    "question": "Kann auf der Website ein WhatsApp-Kontaktbutton sein?",
+    "answer": "Ja. Ein WhatsApp-Link kann nach Absprache eingerichtet werden; bei externen Diensten sind Datenschutzhinweise zu prüfen.",
+    "tags": "kann auf der website ein whatsapp-kontaktbutton sein?"
+  },
+  {
+    "id": 150,
+    "category": "Technik & Funktionen",
+    "question": "Kann der Besucher direkt eine Route zu mir starten?",
+    "answer": "Ja. Ein Link kann Google Maps oder einen anderen Kartendienst mit deinem Unternehmensstandort öffnen.",
+    "tags": "kann der besucher direkt eine route zu mir starten?"
+  },
+  {
+    "id": 151,
+    "category": "Technik & Funktionen",
+    "question": "Ist ein Downloadbereich für PDF-Dateien möglich?",
+    "answer": "Ja. Broschüren, Preislisten oder andere freigegebene Dokumente können zum Download bereitgestellt werden.",
+    "tags": "ist ein downloadbereich für pdf-dateien möglich?"
+  },
+  {
+    "id": 152,
+    "category": "Technik & Funktionen",
+    "question": "Kann die Website mehrere Sprachen enthalten?",
+    "answer": "Ja. Mehrsprachige Seiten sind möglich. Übersetzungen und die zusätzliche Seitenpflege müssen im Angebot berücksichtigt werden.",
+    "tags": "kann die website mehrere sprachen enthalten?"
+  },
+  {
+    "id": 153,
+    "category": "Technik & Funktionen",
+    "question": "Kann ich eine Suchfunktion für meine Leistungen einbauen?",
+    "answer": "Ja. Bei umfangreichen Angeboten kann eine Suche oder Filterfunktion die Orientierung erleichtern.",
+    "tags": "kann ich eine suchfunktion für meine leistungen einbauen?"
+  },
+  {
+    "id": 154,
+    "category": "Technik & Funktionen",
+    "question": "Kann ich einen interaktiven Kostenrechner anbieten?",
+    "answer": "Ja, für nachvollziehbare Preislogik kann ein Rechner entwickelt werden. Die Formeln und Preisangaben müssen zuvor abgestimmt werden.",
+    "tags": "kann ich einen interaktiven kostenrechner anbieten?"
+  },
+  {
+    "id": 155,
+    "category": "Technik & Funktionen",
+    "question": "Kann ich einen FAQ-Chat auf der Website haben?",
+    "answer": "Ja. Ein FAQ-Assistent kann häufige Kundenfragen mit hinterlegten, geprüften Antworten beantworten. Für freie KI-Antworten wären zusätzliche technische und datenschutzrechtliche Entscheidungen nötig.",
+    "tags": "kann ich einen faq-chat auf der website haben?"
+  },
+  {
+    "id": 156,
+    "category": "Technik & Funktionen",
+    "question": "Gibt es eine mobile Menüführung?",
+    "answer": "Ja. Navigation und Buttons werden für kleinere Displays angepasst und mit dem Finger bedienbar gemacht.",
+    "tags": "gibt es eine mobile menüführung?"
+  },
+  {
+    "id": 157,
+    "category": "Technik & Funktionen",
+    "question": "Kann man Videos ohne Ton automatisch abspielen?",
+    "answer": "Ja. Stumme Videos können auf vielen Geräten automatisch starten. Je nach Browser oder Energiespareinstellung kann die Wiedergabe eingeschränkt sein.",
+    "tags": "kann man videos ohne ton automatisch abspielen?"
+  },
+  {
+    "id": 158,
+    "category": "Technik & Funktionen",
+    "question": "Kann eine alte Website auf die neue weiterleiten?",
+    "answer": "Ja. Für geänderte Unterseiten sind geeignete Weiterleitungen möglich; sie werden beim Relaunch geplant.",
+    "tags": "kann eine alte website auf die neue weiterleiten?"
+  },
+  {
+    "id": 159,
+    "category": "Technik & Funktionen",
+    "question": "Wer behebt Fehler nach der Veröffentlichung?",
+    "answer": "Bei gemeldeten Fehlern klären wir, ob sie zur vereinbarten Gewährleistung oder zu zusätzlich beauftragter Wartung gehören.",
+    "tags": "wer behebt fehler nach der veröffentlichung?"
+  },
+  {
+    "id": 160,
+    "category": "Technik & Funktionen",
+    "question": "Kann eine Website später um neue Funktionen erweitert werden?",
+    "answer": "Ja. Viele Funktionen lassen sich später ergänzen. Umfang und Kosten werden vor jeder Erweiterung besprochen.",
+    "tags": "kann eine website später um neue funktionen erweitert werden?"
+  },
+  {
+    "id": 161,
+    "category": "SEO & Google",
+    "question": "Warum erscheint meine neue Website noch nicht bei Google?",
+    "answer": "Google muss neue Seiten erst entdecken, crawlen und gegebenenfalls indexieren. Das kann dauern; eine Einreichung ist keine sofortige Platzierung.",
+    "tags": "warum erscheint meine neue website noch nicht bei google?"
+  },
+  {
+    "id": 162,
+    "category": "SEO & Google",
+    "question": "Kannst du meine Website bei Google anmelden?",
+    "answer": "Ja. Wir unterstützen bei der Einrichtung der Search Console, der Sitemap-Einreichung und der Prüfung des Indexierungsstatus.",
+    "tags": "kannst du meine website bei google anmelden?"
+  },
+  {
+    "id": 163,
+    "category": "SEO & Google",
+    "question": "Was ist der Unterschied zwischen SEO und Google Ads?",
+    "answer": "SEO verbessert die organische Auffindbarkeit. Google Ads sind bezahlte Anzeigen und verursachen in der Regel zusätzliche Werbekosten.",
+    "tags": "was ist der unterschied zwischen seo und google ads?"
+  },
+  {
+    "id": 164,
+    "category": "SEO & Google",
+    "question": "Wird meine Website automatisch Platz eins bei Google?",
+    "answer": "Nein. Eine feste Platzierung kann seriös nicht garantiert werden; sie hängt auch von Wettbewerb, Suchanfrage und anderen Faktoren ab.",
+    "tags": "wird meine website automatisch platz eins bei google?"
+  },
+  {
+    "id": 165,
+    "category": "SEO & Google",
+    "question": "Was ist ein SEO-Seitentitel?",
+    "answer": "Der Seitentitel beschreibt Thema und Anbieter und erscheint häufig als anklickbarer Titel in Suchergebnissen.",
+    "tags": "was ist ein seo-seitentitel?"
+  },
+  {
+    "id": 166,
+    "category": "SEO & Google",
+    "question": "Was ist eine Meta-Beschreibung?",
+    "answer": "Eine kurze Inhaltszusammenfassung, die Suchmaschinen gelegentlich als Beschreibung in Suchergebnissen verwenden.",
+    "tags": "was ist eine meta-beschreibung?"
+  },
+  {
+    "id": 167,
+    "category": "SEO & Google",
+    "question": "Warum sind Bildbeschreibungen wichtig?",
+    "answer": "Sinnvolle Alt-Texte helfen bei Barrierefreiheit und geben Suchmaschinen Kontext zu relevanten Bildern.",
+    "tags": "warum sind bildbeschreibungen wichtig?"
+  },
+  {
+    "id": 168,
+    "category": "SEO & Google",
+    "question": "Braucht meine Website eine Sitemap?",
+    "answer": "Eine XML-Sitemap hilft Suchmaschinen beim Auffinden wichtiger URLs. Sie ersetzt aber weder gute Inhalte noch funktionierende interne Links.",
+    "tags": "braucht meine website eine sitemap?"
+  },
+  {
+    "id": 169,
+    "category": "SEO & Google",
+    "question": "Was ist eine Canonical-URL?",
+    "answer": "Sie weist bei ähnlichen oder doppelten Seiten darauf hin, welche URL bevorzugt als Hauptversion behandelt werden soll.",
+    "tags": "was ist eine canonical-url?"
+  },
+  {
+    "id": 170,
+    "category": "SEO & Google",
+    "question": "Kann man meine alte Google-Position beim Relaunch erhalten?",
+    "answer": "Bestehende URLs, Weiterleitungen und Inhalte werden beim Relaunch berücksichtigt, um Risiken zu reduzieren. Garantieren lässt sich eine identische Platzierung nicht.",
+    "tags": "kann man meine alte google-position beim relaunch erhalten?"
+  },
+  {
+    "id": 171,
+    "category": "SEO & Google",
+    "question": "Hilft ein Blog bei der Auffindbarkeit?",
+    "answer": "Nützliche, regelmäßig gepflegte Inhalte können zusätzliche Suchanfragen abdecken. Ein Blog ohne echten Mehrwert bringt wenig.",
+    "tags": "hilft ein blog bei der auffindbarkeit?"
+  },
+  {
+    "id": 172,
+    "category": "SEO & Google",
+    "question": "Wie werde ich für meinen Standort besser gefunden?",
+    "answer": "Relevante Standortinformationen, authentische Leistungen, saubere Seitenstruktur und gegebenenfalls ein zulässiges Google-Unternehmensprofil helfen.",
+    "tags": "wie werde ich für meinen standort besser gefunden?"
+  },
+  {
+    "id": 173,
+    "category": "SEO & Google",
+    "question": "Was sind strukturierte Daten?",
+    "answer": "Maschinenlesbare Informationen über Unternehmen, Leistungen oder Inhalte, die Suchmaschinen zusätzliche Einordnung ermöglichen können.",
+    "tags": "was sind strukturierte daten?"
+  },
+  {
+    "id": 174,
+    "category": "SEO & Google",
+    "question": "Kann ich mehrere Standorte auf der Website zeigen?",
+    "answer": "Ja, sofern sie tatsächlich bestehen. Erfundenen Niederlassungen oder Standortseiten ohne echten Bezug sollte man vermeiden.",
+    "tags": "kann ich mehrere standorte auf der website zeigen?"
+  },
+  {
+    "id": 175,
+    "category": "SEO & Google",
+    "question": "Kann ich die Google Search Console selbst nutzen?",
+    "answer": "Ja. Idealerweise liegt die Property in deinem eigenen Google-Konto. Wir können dir zeigen, wo du Indexierung, Suchanfragen und Fehler findest.",
+    "tags": "kann ich die google search console selbst nutzen?"
+  },
+  {
+    "id": 176,
+    "category": "Domain & Hosting",
+    "question": "Kann ich meine Domain von IONOS behalten?",
+    "answer": "Ja, normalerweise kann eine bestehende IONOS-Domain mit der neuen Website verbunden werden, ohne den Domainvertrag zu wechseln.",
+    "tags": "kann ich meine domain von ionos behalten?"
+  },
+  {
+    "id": 177,
+    "category": "Domain & Hosting",
+    "question": "Brauche ich für Netlify ein eigenes Konto?",
+    "answer": "Für eine nachvollziehbare Übergabe ist ein eigenes Kundenkonto sinnvoll. Die konkrete Einrichtung besprechen wir gemeinsam.",
+    "tags": "brauche ich für netlify ein eigenes konto?"
+  },
+  {
+    "id": 178,
+    "category": "Domain & Hosting",
+    "question": "Wird meine geschäftliche E-Mail beim Domainwechsel gelöscht?",
+    "answer": "Nein, sofern die E-Mail-DNS-Einträge erhalten bleiben und Verträge nicht versehentlich gekündigt werden. Vor einer Umstellung müssen wir die vorhandene Konfiguration prüfen.",
+    "tags": "wird meine geschäftliche e-mail beim domainwechsel gelöscht?"
+  },
+  {
+    "id": 179,
+    "category": "Domain & Hosting",
+    "question": "Welche Rolle spielt DNS beim Website-Umzug?",
+    "answer": "DNS verbindet deinen Domainnamen mit Servern für Website und E-Mail. Falsche Änderungen können dazu führen, dass Dienste vorübergehend nicht erreichbar sind.",
+    "tags": "welche rolle spielt dns beim website-umzug?"
+  },
+  {
+    "id": 180,
+    "category": "Domain & Hosting",
+    "question": "Was ist ein SSL-Zertifikat?",
+    "answer": "Ein SSL-/TLS-Zertifikat ermöglicht eine verschlüsselte HTTPS-Verbindung und hilft, die Identität des Servers zu prüfen.",
+    "tags": "was ist ein ssl-zertifikat?"
+  },
+  {
+    "id": 181,
+    "category": "Domain & Hosting",
+    "question": "Kann ich die Website mit www und ohne www erreichen?",
+    "answer": "Ja. Üblicherweise wird eine Hauptadresse festgelegt und die andere automatisch darauf weitergeleitet.",
+    "tags": "kann ich die website mit www und ohne www erreichen?"
+  },
+  {
+    "id": 182,
+    "category": "Domain & Hosting",
+    "question": "Was kostet eine neue Domain?",
+    "answer": "Die Kosten hängen vom Domainanbieter und der Endung ab. Domaingebühren werden als mögliche Fremdkosten vorab genannt.",
+    "tags": "was kostet eine neue domain?"
+  },
+  {
+    "id": 183,
+    "category": "Domain & Hosting",
+    "question": "Kann ich zu einem anderen Hostinganbieter wechseln?",
+    "answer": "Grundsätzlich ist ein Wechsel bei geeigneter Website-Technik möglich. Dabei werden Dateistruktur, Formulare und technische Besonderheiten geprüft.",
+    "tags": "kann ich zu einem anderen hostinganbieter wechseln?"
+  },
+  {
+    "id": 184,
+    "category": "Domain & Hosting",
+    "question": "Was passiert mit meinem Hosting, wenn ich die Agentur wechsle?",
+    "answer": "Ein eigenes Hostingkonto gibt dir mehr Kontrolle. Zugänge, Quellcode und vereinbarte Nutzungsrechte sollten bei der Übergabe klar geregelt sein.",
+    "tags": "was passiert mit meinem hosting, wenn ich die agentur wechsle?"
+  },
+  {
+    "id": 185,
+    "category": "Domain & Hosting",
+    "question": "Wozu braucht meine Website HTTPS?",
+    "answer": "HTTPS schützt die Übertragung zwischen Browser und Server vor unbefugtem Mitlesen und ist heute Standard für seriöse Websites.",
+    "tags": "wozu braucht meine website https?"
+  },
+  {
+    "id": 186,
+    "category": "Domain & Hosting",
+    "question": "Kann ich ein vorhandenes E-Mail-Postfach weiterverwenden?",
+    "answer": "Ja. Website-Hosting und E-Mail-Hosting können unabhängig voneinander betrieben werden; die nötigen DNS-Einträge müssen korrekt bleiben.",
+    "tags": "kann ich ein vorhandenes e-mail-postfach weiterverwenden?"
+  },
+  {
+    "id": 187,
+    "category": "Domain & Hosting",
+    "question": "Wie lange dauert eine DNS-Umstellung?",
+    "answer": "DNS-Änderungen können schnell wirksam werden, aber je nach TTL und Caches auch länger brauchen. Wir planen die Umstellung so, dass Ausfallrisiken möglichst gering bleiben.",
+    "tags": "wie lange dauert eine dns-umstellung?"
+  },
+  {
+    "id": 188,
+    "category": "Domain & Hosting",
+    "question": "Was ist ein Redirect?",
+    "answer": "Eine Weiterleitung bringt Besucher von einer alten URL zu einer neuen und ist bei Relaunches besonders wichtig.",
+    "tags": "was ist ein redirect?"
+  },
+  {
+    "id": 189,
+    "category": "Domain & Hosting",
+    "question": "Kann ein Hostingkonto auf meinen Namen laufen?",
+    "answer": "Ja, das ist unser bevorzugter Ansatz. So behältst du langfristig die Kontrolle über dein Projekt.",
+    "tags": "kann ein hostingkonto auf meinen namen laufen?"
+  },
+  {
+    "id": 190,
+    "category": "Domain & Hosting",
+    "question": "Brauche ich extra Speicherplatz für viele Videos?",
+    "answer": "Videos können viel Datenvolumen benötigen. Wir prüfen Komprimierung, Hostinggrenzen und gegebenenfalls geeignete externe Medienlösungen.",
+    "tags": "brauche ich extra speicherplatz für viele videos?"
+  },
+  {
+    "id": 191,
+    "category": "Kontakt & Ablauf",
+    "question": "Was soll ich bei meiner ersten Anfrage schreiben?",
+    "answer": "Nenne kurz dein Unternehmen, deine bisherige Website, die gewünschten Leistungen und besondere Wünsche. Auch eine grobe Idee reicht als Einstieg.",
+    "tags": "was soll ich bei meiner ersten anfrage schreiben?"
+  },
+  {
+    "id": 192,
+    "category": "Kontakt & Ablauf",
+    "question": "Kann ich per Telefon statt per E-Mail anfragen?",
+    "answer": "Ja. Telefonische Abstimmungen sind möglich; die geschäftliche Telefonnummer findest du im Kontaktbereich.",
+    "tags": "kann ich per telefon statt per e-mail anfragen?"
+  },
+  {
+    "id": 193,
+    "category": "Kontakt & Ablauf",
+    "question": "Kann das Erstgespräch online stattfinden?",
+    "answer": "Ja. Viele Fragen lassen sich telefonisch oder per Videokonferenz klären.",
+    "tags": "kann das erstgespräch online stattfinden?"
+  },
+  {
+    "id": 194,
+    "category": "Kontakt & Ablauf",
+    "question": "Kommst du auch persönlich bei meinem Betrieb vorbei?",
+    "answer": "Bei Bedarf sind persönliche Vor-Ort-Termine in der betreuten Region nach Absprache möglich.",
+    "tags": "kommst du auch persönlich bei meinem betrieb vorbei?"
+  },
+  {
+    "id": 195,
+    "category": "Kontakt & Ablauf",
+    "question": "Wie geht es nach meiner Anfrage weiter?",
+    "answer": "Wir klären Bedarf und Ziele, besprechen den Umfang und erstellen ein Angebot. Erst nach deiner Freigabe beginnt die kostenpflichtige Umsetzung.",
+    "tags": "wie geht es nach meiner anfrage weiter?"
+  },
+  {
+    "id": 196,
+    "category": "Kontakt & Ablauf",
+    "question": "Bekomme ich vor dem Start eine Designidee?",
+    "answer": "Ein erster Gestaltungsvorschlag kann Teil der Konzeptphase sein. Umfang und Zeitpunkt werden vorab abgestimmt.",
+    "tags": "bekomme ich vor dem start eine designidee?"
+  },
+  {
+    "id": 197,
+    "category": "Kontakt & Ablauf",
+    "question": "Habe ich einen direkten Ansprechpartner während der Umsetzung?",
+    "answer": "Bei Juli Consulting steht der persönliche Kontakt im Mittelpunkt. Du hast einen direkten Ansprechpartner für Absprachen und Rückfragen.",
+    "tags": "habe ich einen direkten ansprechpartner während der umsetzung?"
+  },
+  {
+    "id": 198,
+    "category": "Kontakt & Ablauf",
+    "question": "Wie lange dauert die Entwicklung?",
+    "answer": "Das hängt von Umfang, vorhandenen Inhalten und Rückmeldungen ab. Ein realistischer Zeitplan wird im Projekt vereinbart.",
+    "tags": "wie lange dauert die entwicklung?"
+  },
+  {
+    "id": 199,
+    "category": "Kontakt & Ablauf",
+    "question": "Was passiert, wenn ich Inhalte verspätet liefere?",
+    "answer": "Fehlende Texte oder Fotos können den Zeitplan verändern. Wir stimmen dann gemeinsam einen aktualisierten Ablauf ab.",
+    "tags": "was passiert, wenn ich inhalte verspätet liefere?"
+  },
+  {
+    "id": 200,
+    "category": "Kontakt & Ablauf",
+    "question": "Kann ich die fertige Seite vor Veröffentlichung prüfen?",
+    "answer": "Ja. Eine Vorschau oder Testversion kann zur Abnahme bereitgestellt werden, bevor sie auf der öffentlichen Domain erscheint.",
+    "tags": "kann ich die fertige seite vor veröffentlichung prüfen?"
+  },
+  {
+    "id": 201,
+    "category": "Kontakt & Ablauf",
+    "question": "Darf ich während des Projekts Änderungswünsche äußern?",
+    "answer": "Ja. Wünsche sind willkommen; ob sie zum vereinbarten Umfang gehören, wird transparent geklärt.",
+    "tags": "darf ich während des projekts änderungswünsche äußern?"
+  },
+  {
+    "id": 202,
+    "category": "Kontakt & Ablauf",
+    "question": "Wie erfolgt die Freigabe der Website?",
+    "answer": "Du prüfst die vereinbarte Website und gibst sie für die Veröffentlichung frei. Offene Punkte werden vorher dokumentiert.",
+    "tags": "wie erfolgt die freigabe der website?"
+  },
+  {
+    "id": 203,
+    "category": "Kontakt & Ablauf",
+    "question": "Was muss ich beim Projektstart bereitstellen?",
+    "answer": "Hilfreich sind Logo, Kontaktdaten, Leistungsübersicht, passende Bilder und Zugangsinformationen für Domain und Hosting, sofern vorhanden.",
+    "tags": "was muss ich beim projektstart bereitstellen?"
+  },
+  {
+    "id": 204,
+    "category": "Kontakt & Ablauf",
+    "question": "Kann ein bestehender Internetauftritt schrittweise erneuert werden?",
+    "answer": "Ja, je nach Technik und Umfang ist eine schrittweise Modernisierung möglich. Wir prüfen zunächst Abhängigkeiten und Risiken.",
+    "tags": "kann ein bestehender internetauftritt schrittweise erneuert werden?"
+  },
+  {
+    "id": 205,
+    "category": "Kontakt & Ablauf",
+    "question": "Wie erreiche ich Juli Consulting bei Rückfragen?",
+    "answer": "Nutze das Kontaktformular oder schreibe an kontakt@juli-consulting.de. Für konkrete Projekte werden die Kommunikationswege abgestimmt.",
+    "tags": "wie erreiche ich juli consulting bei rückfragen?"
+  },
+  {
+    "id": 206,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich meine vorhandenen Texte übernehmen?",
+    "answer": "Ja, vorhandene Texte können geprüft, strukturiert und bei Bedarf sprachlich überarbeitet werden.",
+    "tags": "kann ich meine vorhandenen texte übernehmen?"
+  },
+  {
+    "id": 207,
+    "category": "Inhalte & Pflege",
+    "question": "Schreibst du neue Texte für meine Website?",
+    "answer": "Textunterstützung ist möglich. Ob vollständige Texterstellung enthalten ist, wird im konkreten Angebot vereinbart.",
+    "tags": "schreibst du neue texte für meine website?"
+  },
+  {
+    "id": 208,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich neue Mitarbeiter später hinzufügen?",
+    "answer": "Ja. Team- und Mitarbeiterbereiche lassen sich bei einer entsprechenden Seitenstruktur später ergänzen.",
+    "tags": "kann ich neue mitarbeiter später hinzufügen?"
+  },
+  {
+    "id": 209,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich meine Öffnungszeiten selbst ändern?",
+    "answer": "Das hängt vom vereinbarten Bearbeitungssystem ab. Bei statischen Seiten können Änderungen auch durch Juli Consulting vorgenommen werden.",
+    "tags": "kann ich meine öffnungszeiten selbst ändern?"
+  },
+  {
+    "id": 210,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich Sonderaktionen auf der Startseite zeigen?",
+    "answer": "Ja. Hinweise, Aktionen oder saisonale Banner können bei Bedarf eingebaut werden.",
+    "tags": "kann ich sonderaktionen auf der startseite zeigen?"
+  },
+  {
+    "id": 211,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich neue Referenzprojekte regelmäßig veröffentlichen?",
+    "answer": "Ja. Ein Referenzbereich lässt sich erweitern, beispielsweise um neue Fotos, Projektbeschreibungen und Leistungen.",
+    "tags": "kann ich neue referenzprojekte regelmäßig veröffentlichen?"
+  },
+  {
+    "id": 212,
+    "category": "Inhalte & Pflege",
+    "question": "Wie oft sollte ich meine Website aktualisieren?",
+    "answer": "Wenn sich Leistungen, Öffnungszeiten, Preise oder Kontaktdaten ändern, sollten die Inhalte zeitnah angepasst werden. Ein fester Rhythmus hängt vom Unternehmen ab.",
+    "tags": "wie oft sollte ich meine website aktualisieren?"
+  },
+  {
+    "id": 213,
+    "category": "Inhalte & Pflege",
+    "question": "Sind neue Bilder bei jeder Änderung nötig?",
+    "answer": "Nein. Bestehende hochwertige Bilder können weitergenutzt werden. Neue Aufnahmen sind sinnvoll, wenn Angebot oder Team sich verändert haben.",
+    "tags": "sind neue bilder bei jeder änderung nötig?"
+  },
+  {
+    "id": 214,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich eine Speisekarte als PDF bereitstellen?",
+    "answer": "Ja. PDFs können verlinkt werden; für eine bessere Smartphone-Nutzung ist ergänzend eine gut lesbare HTML-Speisekarte oft sinnvoll.",
+    "tags": "kann ich eine speisekarte als pdf bereitstellen?"
+  },
+  {
+    "id": 215,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich Kundenbewertungen anzeigen?",
+    "answer": "Echte, rechtmäßig verwendete Kundenbewertungen können eingebunden werden. Bewertungen dürfen nicht erfunden oder irreführend verändert werden.",
+    "tags": "kann ich kundenbewertungen anzeigen?"
+  },
+  {
+    "id": 216,
+    "category": "Inhalte & Pflege",
+    "question": "Was bedeutet Bildoptimierung?",
+    "answer": "Bilder werden sinnvoll skaliert, komprimiert und in geeigneten Formaten bereitgestellt, damit sie scharf wirken und schneller laden.",
+    "tags": "was bedeutet bildoptimierung?"
+  },
+  {
+    "id": 217,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich Videos von meinen Arbeiten zeigen?",
+    "answer": "Ja. Einblicke in Werkstatt, Team oder Arbeitsabläufe können besonders authentisch wirken. Wir prüfen Qualität, Ladezeiten und erforderliche Rechte.",
+    "tags": "kann ich videos von meinen arbeiten zeigen?"
+  },
+  {
+    "id": 218,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich meine Telefonnummer kurzfristig aktualisieren lassen?",
+    "answer": "Die Website-Daten müssen entsprechend aktualisiert werden. Je nach Betreuungsmodell erfolgt das nach Vereinbarung oder als Einzelauftrag.",
+    "tags": "kann ich meine telefonnummer kurzfristig aktualisieren lassen?"
+  },
+  {
+    "id": 219,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich häufige Kundenfragen später ergänzen?",
+    "answer": "Ja. Der FAQ-Bereich kann um neue Fragen und aktuelle Antworten erweitert werden, sobald sich Angebot oder Kundenanliegen ändern.",
+    "tags": "kann ich häufige kundenfragen später ergänzen?"
+  },
+  {
+    "id": 220,
+    "category": "Inhalte & Pflege",
+    "question": "Kann ich meine Website auch selbst pflegen?",
+    "answer": "Grundsätzlich ja, wenn dafür eine geeignete Bearbeitungslösung vereinbart wird. Bei rein statischen Dateien sind dafür technische Kenntnisse oder Unterstützung nötig.",
+    "tags": "kann ich meine website auch selbst pflegen?"
+  },
+  {
+    "id": 221,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Braucht jede Unternehmenswebsite ein Impressum?",
+    "answer": "Für geschäftsmäßige Websites in Deutschland besteht in der Regel eine Impressumspflicht. Welche Angaben erforderlich sind, hängt vom Unternehmen ab.",
+    "tags": "braucht jede unternehmenswebsite ein impressum?"
+  },
+  {
+    "id": 222,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Wer ist für die Datenschutzerklärung verantwortlich?",
+    "answer": "Der Websitebetreiber muss die tatsächliche Datenverarbeitung korrekt erläutern. Technische Unterstützung ersetzt keine individuelle rechtliche Prüfung.",
+    "tags": "wer ist für die datenschutzerklärung verantwortlich?"
+  },
+  {
+    "id": 223,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Wann ist ein Einwilligungsbanner erforderlich?",
+    "answer": "Nicht automatisch. Ob eine Einwilligung erforderlich ist, hängt von eingesetzten Cookies, Speichertechnologien und Drittanbietern ab.",
+    "tags": "wann ist ein einwilligungsbanner erforderlich?"
+  },
+  {
+    "id": 224,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Ist ein Google-Maps-Widget datenschutzrechtlich unproblematisch?",
+    "answer": "Externe Karten können personenbezogene Daten an Anbieter übertragen. Eine datensparsame Alternative ist ein normaler Kartenlink oder eine selbst gehostete Darstellung.",
+    "tags": "ist ein google-maps-widget datenschutzrechtlich unproblematisch?"
+  },
+  {
+    "id": 225,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Darf ich Bilder von anderen Websites kopieren?",
+    "answer": "Nur mit einer passenden Lizenz oder Erlaubnis. Öffentlich sichtbare Bilder sind nicht automatisch frei verwendbar.",
+    "tags": "darf ich bilder von anderen websites kopieren?"
+  },
+  {
+    "id": 226,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Darf ich fremde Firmen als abgeschlossene Referenz zeigen?",
+    "answer": "Referenzen müssen wahrheitsgemäß sein. Eine Kooperation oder Beauftragung darf nicht behauptet werden, wenn sie nicht stattgefunden hat.",
+    "tags": "darf ich fremde firmen als abgeschlossene referenz zeigen?"
+  },
+  {
+    "id": 227,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Brauche ich einen AV-Vertrag für mein Kontaktformular?",
+    "answer": "Ob ein Auftragsverarbeitungsvertrag erforderlich ist, hängt vom eingesetzten Dienst und der Rolle des Anbieters ab. Die konkrete Verarbeitung muss geprüft werden.",
+    "tags": "brauche ich einen av-vertrag für mein kontaktformular?"
+  },
+  {
+    "id": 228,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Kannst du meine Seite vollständig rechtssicher garantieren?",
+    "answer": "Nein. Technische Grundlagen und Entwürfe können vorbereitet werden; eine individuelle anwaltliche Prüfung kann erforderlich sein.",
+    "tags": "kannst du meine seite vollständig rechtssicher garantieren?"
+  },
+  {
+    "id": 229,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Wie wird das Kontaktformular gegen Spam geschützt?",
+    "answer": "Technische Formularanbieter können Spamfilter und Honeypot-Felder einsetzen. Trotzdem sollten echte Anfragen und Spamordner regelmäßig kontrolliert werden.",
+    "tags": "wie wird das kontaktformular gegen spam geschützt?"
+  },
+  {
+    "id": 230,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Sind meine Formulardaten verschlüsselt?",
+    "answer": "Bei korrekter HTTPS-Konfiguration werden Übertragungen im Browser verschlüsselt. Weitere Datenschutzanforderungen hängen von Hosting und Verarbeitung ab.",
+    "tags": "sind meine formulardaten verschlüsselt?"
+  },
+  {
+    "id": 231,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Welche Daten sollte ein Kontaktformular abfragen?",
+    "answer": "Nur Daten, die für die Bearbeitung der Anfrage erforderlich sind. Optionale Angaben sollten klar gekennzeichnet werden.",
+    "tags": "welche daten sollte ein kontaktformular abfragen?"
+  },
+  {
+    "id": 232,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Muss ich bei einem Newsletter Einwilligungen einholen?",
+    "answer": "Für werbliche E-Mail-Newsletter ist grundsätzlich eine geeignete Rechtsgrundlage nötig; die genauen Anforderungen hängen von Empfängern und Versandart ab.",
+    "tags": "muss ich bei einem newsletter einwilligungen einholen?"
+  },
+  {
+    "id": 233,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Können Besucher mein Kontaktformular missbrauchen?",
+    "answer": "Spam und automatisierte Einsendungen lassen sich nicht vollständig ausschließen. Angemessene Schutzmechanismen reduzieren das Risiko.",
+    "tags": "können besucher mein kontaktformular missbrauchen?"
+  },
+  {
+    "id": 234,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Was bedeutet barrierearme Website?",
+    "answer": "Eine barrierearme Seite ist gut lesbar, per Tastatur bedienbar und berücksichtigt Kontrast, Alternativtexte und verständliche Struktur.",
+    "tags": "was bedeutet barrierearme website?"
+  },
+  {
+    "id": 235,
+    "category": "Rechtliches & Sicherheit",
+    "question": "Gilt die Barrierefreiheitspflicht für alle kleinen Unternehmen?",
+    "answer": "Nicht pauschal. Ob konkrete gesetzliche Pflichten greifen, hängt etwa vom Angebot, dem Unternehmen und möglichen Ausnahmen ab und sollte individuell geprüft werden.",
+    "tags": "gilt die barrierefreiheitspflicht für alle kleinen unternehmen?"
+  },
+  {
+    "id": 236,
+    "category": "Region & Zusammenarbeit",
+    "question": "Betreust du Unternehmen in Beelitz-Heilstätten?",
+    "answer": "Ja. Beelitz-Heilstätten ist der Ausgangspunkt unserer regionalen Tätigkeit.",
+    "tags": "betreust du unternehmen in beelitz-heilstätten?"
+  },
+  {
+    "id": 237,
+    "category": "Region & Zusammenarbeit",
+    "question": "Arbeitest du auch für Kunden in Potsdam?",
+    "answer": "Ja. Potsdam gehört zum Kern der regionalen Zusammenarbeit; digitale Abstimmungen sind ebenso möglich.",
+    "tags": "arbeitest du auch für kunden in potsdam?"
+  },
+  {
+    "id": 238,
+    "category": "Region & Zusammenarbeit",
+    "question": "Können Betriebe aus Werder eine Website erhalten?",
+    "answer": "Ja. Kunden aus Werder (Havel) können sich telefonisch, digital oder nach Absprache persönlich beraten lassen.",
+    "tags": "können betriebe aus werder eine website erhalten?"
+  },
+  {
+    "id": 239,
+    "category": "Region & Zusammenarbeit",
+    "question": "Nimmst du Aufträge aus Teltow an?",
+    "answer": "Ja. Auch Unternehmen aus Teltow und der Umgebung können Website-Projekte anfragen.",
+    "tags": "nimmst du aufträge aus teltow an?"
+  },
+  {
+    "id": 240,
+    "category": "Region & Zusammenarbeit",
+    "question": "Ist Berlin für Vor-Ort-Termine möglich?",
+    "answer": "Je nach Standort und Terminlage können persönliche Treffen vereinbart werden. Viele Projekte lassen sich auch vollständig online betreuen.",
+    "tags": "ist berlin für vor-ort-termine möglich?"
+  },
+  {
+    "id": 241,
+    "category": "Region & Zusammenarbeit",
+    "question": "Kann ein Kunde aus einem anderen Bundesland mit dir arbeiten?",
+    "answer": "Ja. Website-Erstellung und Abstimmung sind auch überregional digital möglich.",
+    "tags": "kann ein kunde aus einem anderen bundesland mit dir arbeiten?"
+  },
+  {
+    "id": 242,
+    "category": "Region & Zusammenarbeit",
+    "question": "Wie groß ist dein regionales Kerngebiet?",
+    "answer": "Die Standortkarte zeigt ein schematisches Einzugsgebiet von ungefähr 50 Kilometern Luftlinie rund um Beelitz-Heilstätten. Darüber hinaus sind digitale Aufträge möglich.",
+    "tags": "wie groß ist dein regionales kerngebiet?"
+  },
+  {
+    "id": 243,
+    "category": "Region & Zusammenarbeit",
+    "question": "Sind Termine in Michendorf möglich?",
+    "answer": "Michendorf gehört zur betreuten Region. Ob und wann ein persönliches Treffen sinnvoll ist, besprechen wir individuell.",
+    "tags": "sind termine in michendorf möglich?"
+  },
+  {
+    "id": 244,
+    "category": "Region & Zusammenarbeit",
+    "question": "Bietest du Webdesign für Gastronomie in Brandenburg an?",
+    "answer": "Ja. Für Restaurants, Cafés und Pensionen sind branchengerechte Seiten mit Speisekarten, Öffnungszeiten und Kontaktmöglichkeiten möglich.",
+    "tags": "bietest du webdesign für gastronomie in brandenburg an?"
+  },
+  {
+    "id": 245,
+    "category": "Region & Zusammenarbeit",
+    "question": "Entwickelst du Websites für Tischlereien?",
+    "answer": "Ja. Handwerksbetriebe können ihre Leistungen, Materialien und abgeschlossene Projekte authentisch und übersichtlich präsentieren.",
+    "tags": "entwickelst du websites für tischlereien?"
+  },
+  {
+    "id": 246,
+    "category": "Region & Zusammenarbeit",
+    "question": "Kannst du auch einem Friseursalon helfen?",
+    "answer": "Ja. Für lokale Salons eignen sich klare Leistungen, Bilder, Öffnungszeiten und gut erreichbare Kontakt- oder Buchungsmöglichkeiten.",
+    "tags": "kannst du auch einem friseursalon helfen?"
+  },
+  {
+    "id": 247,
+    "category": "Region & Zusammenarbeit",
+    "question": "Arbeitest du mit Einzelunternehmen?",
+    "answer": "Ja. Persönliche und bezahlbare Websites für Einzelunternehmen und Selbstständige gehören zur Zielgruppe.",
+    "tags": "arbeitest du mit einzelunternehmen?"
+  },
+  {
+    "id": 248,
+    "category": "Region & Zusammenarbeit",
+    "question": "Können kleine Hotels oder Pensionen dich beauftragen?",
+    "answer": "Ja. Für Übernachtungsbetriebe sind Zimmeransichten, Lageinformationen und Kontakt- oder Buchungslinks möglich.",
+    "tags": "können kleine hotels oder pensionen dich beauftragen?"
+  },
+  {
+    "id": 249,
+    "category": "Region & Zusammenarbeit",
+    "question": "Betreust du auch Autowerkstätten?",
+    "answer": "Ja. Werkstätten können Leistungen, Team, Ansprechpartner und auf Wunsch Terminanfragen übersichtlich darstellen.",
+    "tags": "betreust du auch autowerkstätten?"
+  },
+  {
+    "id": 250,
+    "category": "Region & Zusammenarbeit",
+    "question": "Was ist bei einer rein digitalen Zusammenarbeit anders?",
+    "answer": "Briefing, Designfeedback, Abnahme und technische Übergabe erfolgen telefonisch oder online. Ein persönlicher Termin ist nicht zwingend nötig.",
+    "tags": "was ist bei einer rein digitalen zusammenarbeit anders?"
+  }
+]

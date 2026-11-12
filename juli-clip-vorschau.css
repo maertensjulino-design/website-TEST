@@ -1,0 +1,24 @@
+/* JULI CONSULTING · ressourcenschonende Referenz-Vorschau */
+.live-preview.juli-clip-preview{display:block;position:relative;width:100%;aspect-ratio:1.38;overflow:hidden;background:#dfe7dd;isolation:isolate}
+.live-preview.juli-clip-preview .juli-clip-poster,
+.live-preview.juli-clip-preview .juli-clip-video{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;object-fit:cover!important;object-position:center 38%!important;aspect-ratio:auto!important;max-width:none!important;transform:none!important;border:0!important;display:block!important}
+.live-preview.juli-clip-preview .juli-clip-poster{z-index:0;filter:saturate(.95)}
+.live-preview.juli-clip-preview .juli-clip-video{z-index:1;opacity:0;transition:opacity .35s ease;pointer-events:none;background:transparent}
+.live-preview.juli-clip-preview.juli-playing .juli-clip-video{opacity:1}
+.live-preview.juli-clip-preview .juli-clip-shade{z-index:2;position:absolute;inset:0;background:linear-gradient(180deg,rgba(15,30,22,.14),transparent 39%,rgba(10,25,18,.82) 100%);pointer-events:none}
+.live-preview.juli-clip-preview .juli-clip-label{position:absolute;left:6%;bottom:9%;right:8%;z-index:3;color:white;text-align:left;line-height:1.2;text-shadow:0 2px 12px rgba(0,0,0,.28);pointer-events:none}
+.live-preview.juli-clip-preview .juli-clip-label small{display:block;font-size:clamp(8px,.7vw,10px);font-weight:800;letter-spacing:.15em;text-transform:uppercase;margin-bottom:8px;opacity:.88}
+.live-preview.juli-clip-preview .juli-clip-label strong{display:block;font-size:clamp(18px,2.2vw,30px);letter-spacing:-.035em;font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;font-weight:800}
+.live-preview.juli-clip-preview .live-preview-indicator{z-index:5;top:auto;bottom:12px;right:12px;left:auto;white-space:nowrap}
+.live-preview.juli-clip-preview .live-preview-indicator i{animation:preview-live-pulse 2s infinite}
+@media(max-width:640px){.live-preview.juli-clip-preview .juli-clip-label strong{font-size:clamp(19px,5vw,29px)}}
+@media(prefers-reduced-motion:reduce){.live-preview.juli-clip-preview .juli-clip-video{transition:none!important}}
+
+/* Nur die Vorschaufenster: kompakte, originale Clips und zuverlässige Bild-Fallbacks. */
+#arbeiten .live-preview.juli-clip-preview{aspect-ratio:16/9!important;min-height:0!important}
+.project-visual{height:215px!important}
+.project-visual .live-preview.juli-clip-preview{height:100%!important;aspect-ratio:auto!important}
+.live-preview.juli-clip-preview .juli-clip-poster{object-position:center 30%!important;opacity:1!important}
+.live-preview.juli-clip-preview .juli-clip-video{object-position:center center!important}
+@media(max-width:960px){#arbeiten .live-preview.juli-clip-preview{aspect-ratio:16/9!important}}
+@media(max-width:640px){.project-visual{height:205px!important}}
