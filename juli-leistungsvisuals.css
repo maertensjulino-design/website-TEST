@@ -1,0 +1,59 @@
+/* JULI CONSULTING – ausschließlich Layout und Vektorgrafiken der sechs Leistungen.
+   Keine externen Bilder, Schriften oder Skripte. */
+#leistungen .services {
+  display: grid;
+  grid-template-columns: minmax(0,1fr);
+  gap: 20px;
+}
+#leistungen .service {
+  display: grid;
+  grid-template-columns: minmax(0,42%) minmax(0,58%);
+  align-items: stretch;
+  min-height: 280px;
+  padding: 0;
+  gap: 0;
+  overflow: hidden;
+}
+#leistungen .service-visual {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  min-height: 280px;
+  padding: clamp(18px,3vw,38px);
+  background: linear-gradient(145deg,#e4ebe3 0%,#edf1e9 58%,#f2ebdd 100%);
+  border-right: 1px solid #d6e0d5;
+}
+#leistungen .service-visual svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 440px;
+  overflow: visible;
+}
+#leistungen .service-body {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: clamp(25px,3.2vw,44px);
+}
+#leistungen .service .num { margin-bottom: 20px; }
+#leistungen .service h3 { margin-top: 0; }
+#leistungen .service p { margin-bottom: 24px; }
+#leistungen .service-toggle { margin-top: auto; }
+@media (max-width: 760px) {
+  #leistungen .service { grid-template-columns: minmax(0,1fr); }
+  #leistungen .service-visual {
+    min-height: 0;
+    aspect-ratio: 16 / 9;
+    padding: 14px 24px;
+    border-right: 0;
+    border-bottom: 1px solid #d6e0d5;
+  }
+  #leistungen .service-visual svg { max-width: 340px; max-height: 230px; }
+  #leistungen .service-body { padding: 26px 24px 28px; }
+  #leistungen .service .num { margin-bottom: 14px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #leistungen .service, #leistungen .service-visual { transition: none; }
+}
