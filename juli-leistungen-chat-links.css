@@ -1,0 +1,26 @@
+/* JULI CONSULTING – ausschließlich Leistungen (SVG-Darstellungen) und FAQ-Chat-Position.
+   Keine Änderungen an Referenzen, Karte, Preisen, Formularen oder vorhandenen Inhalten. */
+#leistungen .services{display:grid;grid-template-columns:minmax(0,1fr);gap:18px;align-items:stretch}
+#leistungen .service{display:grid;grid-template-columns:minmax(260px,.86fr) minmax(0,1.14fr);padding:0;min-height:250px;align-items:stretch;overflow:hidden}
+#leistungen .service-visual{display:flex;align-items:center;justify-content:center;min-height:250px;padding:18px;background:linear-gradient(145deg,#EDF2EA,#DFE8DF);border-right:1px solid #D8E2D8}
+#leistungen .service-visual svg{display:block;width:100%;max-width:480px;height:auto;max-height:245px;overflow:visible}
+#leistungen .service-copy{display:flex;flex-direction:column;min-width:0;padding:clamp(24px,3vw,38px)}
+#leistungen .service .num{margin:0 0 14px}
+#leistungen .service h3{margin:0 0 12px}
+#leistungen .service p{margin:0 0 24px}
+#leistungen .service-toggle{margin-top:auto}
+#leistungen .service-detail{max-width:680px}
+.jc-chat-launch{left:22px;right:auto}
+.jc-chat-panel{left:20px;right:auto}
+@media(max-width:720px){
+  #leistungen .service{grid-template-columns:minmax(0,1fr);min-height:0}
+  #leistungen .service-visual{min-height:190px;padding:12px 18px;border-right:0;border-bottom:1px solid #D8E2D8}
+  #leistungen .service-visual svg{max-height:210px}
+  #leistungen .service-copy{padding:24px}
+  .jc-chat-launch{left:14px;right:auto}
+  .jc-chat-panel{left:12px;right:auto}
+}
+@media(max-width:400px){
+  #leistungen .service-visual{min-height:165px}
+  #leistungen .service-visual svg{max-height:180px}
+}
